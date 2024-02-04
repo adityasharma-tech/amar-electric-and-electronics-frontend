@@ -8,7 +8,7 @@ export default function Navbar() {
         <React.Fragment>
             <div style={{
                 fontSize: ".829em"
-            }} className="h-10 text-zinc-600 py-2 px-24 text-xs bg-[#151515] flex justify-between">
+            }} className="h-10 text-zinc-600 py-2 px-24 text-xs bg-[#151515] md:flex hidden justify-between">
                 <div>
                     <span className="hover:text-white cursor-pointer transition-colors">Welcome to Worldwide Electronics Store</span>
                 </div>
@@ -36,7 +36,7 @@ export default function Navbar() {
 
                 </div>
             </div>
-            <header className="py-[20px] text-white bg-[#151515] flex flex-row px-24 justify-between">
+            <header className="py-[20px] text-white bg-[#151515] flex flex-row px-5 md:px-24 justify-between">
                 <div>
                     <Image width={40} height={40} src={siteConfig.logo._round} />
                 </div>
