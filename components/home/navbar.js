@@ -8,26 +8,26 @@ export default function Navbar() {
         <React.Fragment>
             <div style={{
                 fontSize: ".829em"
-            }} className="h-10 text-gray-500 py-2 px-24 text-xs bg-[#151515] flex justify-between">
+            }} className="h-10 text-zinc-600 py-2 px-24 text-xs bg-[#151515] flex justify-between">
                 <div>
-                    <span>Welcome to Worldwide Electronics Store</span>
+                    <span className="hover:text-white cursor-pointer transition-colors">Welcome to Worldwide Electronics Store</span>
                 </div>
                 <div className="flex justify-around gap-x-2">
-                <button className="flex gap-x-2 my-auto">
+                <button className="flex gap-x-2 my-auto hover:text-white transition-colors">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1} stroke="currentColor" className="w-4 h-4">
                             <path strokeLinecap="round" strokeLinejoin="round" d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
                             <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z" />
                         </svg> Store Locator
                     </button>
                     <span className="h-full my-auto mt-1">|</span>
-                    <button className="flex gap-x-2 my-auto">
+                    <button className="flex gap-x-2 my-auto hover:text-white transition-colors">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1} stroke="currentColor" className="w-4 h-4">
                             <path strokeLinecap="round" strokeLinejoin="round" d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
                             <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z" />
                         </svg> Store Locator
                     </button>
                     <span className="h-full my-auto mt-1">|</span>
-                    <button className="flex gap-x-2 my-auto">
+                    <button className="flex gap-x-2 my-auto hover:text-white transition-colors">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1} stroke="currentColor" className="w-4 h-4">
                             <path strokeLinecap="round" strokeLinejoin="round" d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
                             <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z" />
@@ -51,7 +51,6 @@ export default function Navbar() {
                     </ul>
                 </div>
                 <div className="flex gap-x-10">
-                    <button>
                         <TooltipProvider>
                             <Tooltip>
                                 <TooltipTrigger>
@@ -65,8 +64,6 @@ export default function Navbar() {
                             </Tooltip>
                         </TooltipProvider>
 
-                    </button>
-                    <button>
                         <TooltipProvider>
                             <Tooltip>
                                 <TooltipTrigger>
@@ -80,8 +77,6 @@ export default function Navbar() {
                             </Tooltip>
                         </TooltipProvider>
 
-                    </button>
-                    <button>
                         <TooltipProvider>
                             <Tooltip>
                                 <TooltipTrigger>
@@ -99,7 +94,6 @@ export default function Navbar() {
                                 </TooltipContent>
                             </Tooltip>
                         </TooltipProvider>
-                    </button>
                 </div>
             </header>
         </React.Fragment>
