@@ -38,7 +38,7 @@ export default function Navbar() {
             </div>
             <header className="py-[20px] text-white bg-[#151515] flex flex-row px-5 md:px-24 justify-between">
                 <div>
-                    <Image width={40} height={40} src={siteConfig.logo._round} />
+                    <Image alt="logo" width={40} height={40} src={siteConfig.logo._round} />
                 </div>
                 <div className="lg:flex hidden my-auto">
                     <ul className="flex gap-x-8 font-semibold text-[1em]">

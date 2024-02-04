@@ -66,7 +66,7 @@ export default function Home() {
                       fontSize: ".857emds"
                     }} className="font-semibold">Smartphone 6S 32GB LTE</span>
                     <div className="relative h-32 w-full md:h-full">
-                      <Image style={{
+                      <Image alt="Iphone" style={{
                         objectFit: "contain"
                       }} layout="fill" src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/GoldPhone-1-300x300.png" />
                     </div>
@@ -88,7 +88,7 @@ export default function Home() {
                       fontSize: ".857emds"
                     }} className="font-semibold">Smartphone 6S 32GB LTE</span>
                     <div className="relative h-32 w-full md:h-full">
-                      <Image style={{
+                      <Image alt="iphone" style={{
                         objectFit: "contain"
                       }} layout="fill" src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/redmi-300x300.png" />
                     </div>
