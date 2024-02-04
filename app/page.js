@@ -26,10 +26,9 @@ export default function Home() {
               <div className="my-auto w-full px-5">
                 <div>
                   <h1 style={{
-                    fontSize: "54px",
                     lineHeight: "56px"
-                  }} className="font-light">OVER <strong className="font-bold">1 MILION</strong></h1>
-                  <h2 className="font-semibold text-[14px] w-full text-center md:w-auto md:text-[14.5px] tracking-tight">OF COOL ELECTRONICS AND TECH GADGETS OUT THERE</h2>
+                  }} className="font-light md:text-[54px] text-[48px]">OVER <strong className="font-bold">1 MILION</strong></h1>
+                  <h2 className="font-semibold text-[12px] w-full text-center md:w-auto md:text-[14.5px] tracking-tight">OF COOL ELECTRONICS AND TECH GADGETS OUT THERE</h2>
                 </div>
                 <div className="md:w-[80%] py-7">
                   <div className="flex h-14">
