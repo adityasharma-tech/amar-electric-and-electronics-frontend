@@ -74,3 +74,32 @@
     @apply bg-background text-foreground;
   }
 }
+
+.title::after {
+  content: ' ';
+  border-bottom: 2px solid #fdd700;
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  width: 70px;
+}
+
+#collection-links li ::after {
+  font-family: font-electro;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  width: auto;
+  height: auto;
+  content: '\62';
+  color: #aeaeae;
+  font-size: 1em;
+  line-height: 1;
+  margin-left: 8px;
+  margin-right: 0;
+  position: absolute;
+  right: 4px;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-top: 2px;
+}
