@@ -27,7 +27,7 @@ export default function BrandCarausel() {
         >
             <CarouselContent>
                 {Array.from({ length: 5 }).map((_, index) => (
-                    <CarouselItem key={index} className="basis-1/3 lg:basis-1/4">
+                    <CarouselItem key={index} className="basis-1/2 lg:basis-1/4">
                         <div className="p-1">
                             <img className="h-[50px] my-2" src={`/assets/temp/themeforest${index + 1}.webp`} />
                         </div>

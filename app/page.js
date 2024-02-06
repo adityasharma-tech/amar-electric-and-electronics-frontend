@@ -79,7 +79,7 @@ export default function Home() {
 
   function HorizontalProductCard() {
     return (
-      <div className="flex w-full relative h-[90px] my-5">
+      <div className="flex w-full hover:bg-zinc-50 relative h-[90px] md:my-5 my-2">
         <div className="w-[30%] relative">
           <Image
             objectFit="contain"
@@ -317,9 +317,10 @@ export default function Home() {
         </div>
       </section>
       <div className="w-full h-24 to-[#212121] from-[#151515] bg-gradient-to-t" />
+      <div className="w-full md:hidden h-12 bg-[#151515]" />
       <section className="min-h-screen py-10 mt-20">
-        <div className="flex w-full h-full px-28 ">
-          <div className="w-3/12 h-full px-5">
+        <div className="md:flex w-full h-full md:px-20 lg:px-28">
+          <div className="md:w-3/12 hidden md:block h-full px-5">
             <div className="pb-5 pt-3">
               <div className="relative">
                 <span
@@ -372,7 +373,7 @@ export default function Home() {
               <img src="/assets/temp/ad-banner-sidebar.webp" />
             </div>
           </div>
-          <div className="w-9/12 h-full">
+          <div className="md:w-9/12 px-3 md:px-0 h-full">
             <div>
               <div className="relative">
                 <span
@@ -387,7 +388,7 @@ export default function Home() {
                 </span>
               </div>
             </div>
-            <div className="grid grid-cols-4">
+            <div className="grid lg:grid-cols-4 md:grid-col-3 grid-cols-2">
               <ProductCard />
               <ProductCard />
               <ProductCard />
@@ -404,11 +405,11 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <section className="md:px-28">
+      <section className="md:px-28 overflow-hidden">
         <BrandCarausel />
       </section>
-      <section className="px-28 py-10">
-        <div className="grid grid-cols-4 gap-x-6">
+      <section className="lg:px-28 px-3 md:px-10 py-10">
+        <div className="grid lg:grid-cols-4 gap-y-3 md:grid-cols-2 gap-x-6">
           <div>
             <TitleBox>Featured Products</TitleBox>
             <div className="grid grid-rows-3 gap-y-6">
@@ -434,19 +435,19 @@ export default function Home() {
             </div>
           </div>
           <div>
-            <img src="/assets/temp/footer-widget-img-01.webp" />
+            <img className="w-full" src="/assets/temp/footer-widget-img-01.webp" />
           </div>
         </div>
       </section>
       <section>
-        <div className="h-20 md:px-28 bg-primary grid grid-cols-3">
+        <div className="h-20 md:px-28 bg-primary grid grid-cols-2 md:grid-cols-3">
           <div className="flex my-auto gap-x-3">
             <span><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} className="w-9 h-9 stroke-gray-900 opacity-85">
               <path strokeLinecap="round" strokeLinejoin="round" d="M6 12 3.269 3.125A59.769 59.769 0 0 1 21.485 12 59.768 59.768 0 0 1 3.27 20.875L5.999 12Zm0 0h7.5" />
             </svg></span>
             <span className="text-2xl my-auto font-semibold text-gray-900 opacity-85">Sign up to Newsletter</span>
           </div>
-          <div></div>
+          <div className="hidden md:block"></div>
           <div className="my-auto">
             <div className="flex h-10">
               <input
@@ -465,7 +466,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <div className="h-screen"></div>
     </main>
   );
 }
