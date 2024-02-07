@@ -42020,4 +42020,6250 @@ export default function Test(){
                           <li
                             className="product type-product post-2859 status-publish last instock product_cat-all-in-one-laptops-computers has-post-thumbnail shipping-taxable purchasable product-type-simple"
                           >
-                        
+                            <div className="product-outer product-item__outer">
+                              <div className="product-inner product-item__inner">
+                                <div
+                                  className="product-loop-header product-item__header"
+                                >
+                                  <span className="loop-product-categories"
+                                    ><a
+                                      href="https://electro.madrasthemes.com/product-category/laptops-computers/all-in-one-laptops-computers/"
+                                      rel="tag"
+                                      >All in One</a
+                                    ></span
+                                  ><a
+                                    href="https://electro.madrasthemes.com/product/smartwatch-2-0-lte-wifi-waterproof-copy/"
+                                    className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                    ><h2
+                                      className="woocommerce-loop-product__title"
+                                    >
+                                      Smartwatch 2.0 LTE Wifi Waterproof
+                                    </h2>
+                                    <div
+                                      className="product-thumbnail product-item__thumbnail"
+                                    >
+                                      <img
+                                        loading="lazy"
+                                        width="300"
+                                        height="300"
+                                        src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/applwatch-300x300.png"
+                                        className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                        alt=""
+                                      /></div
+                                  ></a>
+                                </div>
+                                <div
+                                  className="product-loop-body product-item__body"
+                                >
+                                  <span className="loop-product-categories"
+                                    ><a
+                                      href="https://electro.madrasthemes.com/product-category/laptops-computers/all-in-one-laptops-computers/"
+                                      rel="tag"
+                                      >All in One</a
+                                    ></span
+                                  ><a
+                                    href="https://electro.madrasthemes.com/product/smartwatch-2-0-lte-wifi-waterproof-copy/"
+                                    className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                    ><h2
+                                      className="woocommerce-loop-product__title"
+                                    >
+                                      Smartwatch 2.0 LTE Wifi Waterproof
+                                    </h2>
+                                    <div className="product-rating">
+                                      <div
+                                        className="star-rating"
+                                        role="img"
+                                        aria-label="Rated 4.00 out of 5"
+                                      >
+                                        <span style={{width": " 80%"}}
+                                          >Rated
+                                          <strong className="rating">4.00</strong>
+                                          out of 5</span
+                                        >
+                                      </div>
+                                      (3)
+                                    </div>
+                                    <div className="product-sku">
+                                      SKU: 5487FB8/10
+                                    </div></a
+                                  >
+                                </div>
+                                <div
+                                  className="product-loop-footer product-item__footer"
+                                >
+                                  <div className="price-add-to-cart">
+                                    <span className="price"
+                                      ><span className="electro-price"
+                                        ><span
+                                          className="woocommerce-Price-amount amount"
+                                          ><bdi
+                                            ><span
+                                              className="woocommerce-Price-currencySymbol"
+                                              >$</span
+                                            >725.00</bdi
+                                          ></span
+                                        ></span
+                                      ></span
+                                    >
+                                    <div
+                                      className="add-to-cart-wrap"
+                                      data-bs-toggle="tooltip"
+                                      data-bs-title="Add to cart"
+                                      data-bs-original-title=""
+                                      title=""
+                                    >
+                                      <a
+                                        href="?add-to-cart=2859"
+                                        data-quantity="1"
+                                        className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                        data-product_id="2859"
+                                        data-product_sku="5487FB8/10"
+                                        aria-label="Add to cart: “Smartwatch 2.0 LTE Wifi  Waterproof”"
+                                        aria-describedby=""
+                                        rel="nofollow"
+                                        >Add to cart</a
+                                      >
+                                    </div>
+                                  </div>
+                                  <div className="hover-area">
+                                    <div className="action-buttons">
+                                      <div
+                                        className="yith-wcwl-add-to-wishlist add-to-wishlist-2859 wishlist-fragment on-first-load"
+                                        data-fragment-ref="2859"
+                                        data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2859,"parent_product_id":2859,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                      >
+                                        <div className="yith-wcwl-add-button">
+                                          <a
+                                            href="?add_to_wishlist=2859&amp;_wpnonce=0a66d26762"
+                                            className="add_to_wishlist single_add_to_wishlist"
+                                            data-product-id="2859"
+                                            data-product-type="simple"
+                                            data-original-product-id="2859"
+                                            data-title="Wishlist"
+                                            rel="nofollow"
+                                          >
+                                            <i
+                                              className="yith-wcwl-icon fa fa-heart-o"
+                                            ></i>
+                                            <span>Wishlist</span>
+                                          </a>
+                                        </div>
+                                      </div>
+                                      <a
+                                        href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2859"
+                                        className="add-to-compare-link"
+                                        data-product_id="2859"
+                                        >Compare</a
+                                      >
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                        </ul>
+                      </div>
+                      <div className="product-main-8-1 col-lg-5 col-xxl-4">
+                        <ul className="products exclude-auto-height row g-0">
+                          <li
+                            className="product type-product post-2599 status-publish first instock product_cat-game-consoles has-post-thumbnail shipping-taxable purchasable product-type-simple"
+                          >
+                            <div className="product-outer product-item__outer">
+                              <div className="product-inner product-item__inner">
+                                <div className="flex-div">
+                                  <div
+                                    className="product-loop-header product-item__header"
+                                  >
+                                    <span className="loop-product-categories"
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product-category/video-games-consoles/game-consoles/"
+                                        rel="tag"
+                                        >Game Consoles</a
+                                      ></span
+                                    ><a
+                                      href="https://electro.madrasthemes.com/product/game-console-controller-usb-3-0-cable/"
+                                      className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                      ><h2
+                                        className="woocommerce-loop-product__title"
+                                      >
+                                        Game Console Controller + USB 3.0 Cable
+                                      </h2></a
+                                    >
+                                  </div>
+                                  <div className="images">
+                                    <a
+                                      href="https://electro.madrasthemes.com/product/game-console-controller-usb-3-0-cable/"
+                                      className="woocommerce-main-image"
+                                      title=""
+                                      ><img
+                                        loading="lazy"
+                                        width="600"
+                                        height="550"
+                                        src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/consal-600x550.png"
+                                        className="attachment-shop_single size-shop_single wp-post-image"
+                                        alt=""
+                                        title="consal"
+                                        decoding="async"
+                                        srcset="
+                                          https://electro.madrasthemes.com/wp-content/uploads/2016/03/consal-600x550.png 600w,
+                                          https://electro.madrasthemes.com/wp-content/uploads/2016/03/consal-300x275.png 300w,
+                                          https://electro.madrasthemes.com/wp-content/uploads/2016/03/consal.png         720w
+                                        "
+                                        sizes="(max-width: 600px) 100vw, 600px"
+                                    /></a>
+                                    <div className="thumbnails columns-3">
+                                      <a
+                                        href="https://electro.madrasthemes.com/product/game-console-controller-usb-3-0-cable/"
+                                        className="first"
+                                        title=""
+                                        ><img
+                                          loading="lazy"
+                                          width="100"
+                                          height="100"
+                                          src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/gadtet-100x100.png"
+                                          className="attachment-shop_thumbnail size-shop_thumbnail"
+                                          alt="gadtet"
+                                          title="gadtet"
+                                          decoding="async"
+                                          srcset="
+                                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/gadtet-100x100.png 100w,
+                                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/gadtet-150x150.png 150w,
+                                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/gadtet-300x300.png 300w
+                                          "
+                                          sizes="(max-width: 100px) 100vw, 100px" /></a
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/game-console-controller-usb-3-0-cable/"
+                                        className=""
+                                        title=""
+                                        ><img
+                                          loading="lazy"
+                                          width="100"
+                                          height="100"
+                                          src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/gade1-100x100.png"
+                                          className="attachment-shop_thumbnail size-shop_thumbnail"
+                                          alt="gade1"
+                                          title="gade1"
+                                          decoding="async"
+                                          srcset="
+                                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/gade1-100x100.png 100w,
+                                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/gade1-150x150.png 150w,
+                                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/gade1-300x300.png 300w
+                                          "
+                                          sizes="(max-width: 100px) 100vw, 100px" /></a
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/game-console-controller-usb-3-0-cable/"
+                                        className="last"
+                                        title=""
+                                        ><img
+                                          loading="lazy"
+                                          width="100"
+                                          height="100"
+                                          src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/consal-100x100.png"
+                                          className="attachment-shop_thumbnail size-shop_thumbnail"
+                                          alt="consal"
+                                          title="consal"
+                                          decoding="async"
+                                          srcset="
+                                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/consal-100x100.png 100w,
+                                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/consal-150x150.png 150w,
+                                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/consal-300x300.png 300w
+                                          "
+                                          sizes="(max-width: 100px) 100vw, 100px"
+                                      /></a>
+                                    </div>
+                                  </div>
+                                  <div
+                                    className="product-loop-body product-item__body"
+                                  >
+                                    <span className="loop-product-categories"
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product-category/video-games-consoles/game-consoles/"
+                                        rel="tag"
+                                        >Game Consoles</a
+                                      ></span
+                                    ><a
+                                      href="https://electro.madrasthemes.com/product/game-console-controller-usb-3-0-cable/"
+                                      className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                      ><h2
+                                        className="woocommerce-loop-product__title"
+                                      >
+                                        Game Console Controller + USB 3.0 Cable
+                                      </h2>
+                                      <div className="product-rating">
+                                        <div
+                                          className="star-rating"
+                                          title="Rated 0 out of 5"
+                                        >
+                                          <span style={{width": " 0%"}}
+                                            ><strong className="rating">0</strong>
+                                            out of 5</span
+                                          >
+                                        </div>
+                                        (0)
+                                      </div>
+                                      <div className="product-sku">
+                                        SKU: 5487FB8/23
+                                      </div></a
+                                    >
+                                  </div>
+                                  <div
+                                    className="product-loop-footer product-item__footer"
+                                  >
+                                    <div className="price-add-to-cart">
+                                      <span className="price"
+                                        ><span className="electro-price"
+                                          ><span
+                                            className="woocommerce-Price-amount amount"
+                                            ><bdi
+                                              ><span
+                                                className="woocommerce-Price-currencySymbol"
+                                                >$</span
+                                              >99.00</bdi
+                                            ></span
+                                          ></span
+                                        ></span
+                                      >
+                                      <div
+                                        className="add-to-cart-wrap"
+                                        data-bs-toggle="tooltip"
+                                        data-bs-title="Add to cart"
+                                        data-bs-original-title=""
+                                        title=""
+                                      >
+                                        <a
+                                          href="?add-to-cart=2599"
+                                          data-quantity="1"
+                                          className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                          data-product_id="2599"
+                                          data-product_sku="5487FB8/23"
+                                          aria-label="Add to cart: “Game Console Controller + USB 3.0 Cable”"
+                                          aria-describedby=""
+                                          rel="nofollow"
+                                          >Add to cart</a
+                                        >
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div className="hover-area">
+                                  <div className="action-buttons">
+                                    <div
+                                      className="yith-wcwl-add-to-wishlist add-to-wishlist-2599 wishlist-fragment on-first-load"
+                                      data-fragment-ref="2599"
+                                      data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2599,"parent_product_id":2599,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                    >
+                                      <div className="yith-wcwl-add-button">
+                                        <a
+                                          href="?add_to_wishlist=2599&amp;_wpnonce=0a66d26762"
+                                          className="add_to_wishlist single_add_to_wishlist"
+                                          data-product-id="2599"
+                                          data-product-type="simple"
+                                          data-original-product-id="2599"
+                                          data-title="Wishlist"
+                                          rel="nofollow"
+                                        >
+                                          <i
+                                            className="yith-wcwl-icon fa fa-heart-o"
+                                          ></i>
+                                          <span>Wishlist</span>
+                                        </a>
+                                      </div>
+                                    </div>
+                                    <a
+                                      href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2599"
+                                      className="add-to-compare-link"
+                                      data-product_id="2599"
+                                      >Compare</a
+                                    >
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <section
+                  className="home-list-categories animate-in-view"
+                  data-animation="fadeIn"
+                >
+                  <header>
+                    <h2 className="h1">Top Categories this Month</h2>
+                  </header>
+                  <ul
+                    className="categories list-unstyled row row-cols-3 row-cols-xxl-4 mt-3 mt-sm-0"
+                  >
+                    <li
+                      className="category d-xl-flex flex-xl-column position-relative"
+                    >
+                      <div
+                        className="category-media d-sm-flex align-items-sm-center align-items-xxl-start"
+                      >
+                        <a
+                          className="category-media-left"
+                          href="https://electro.madrasthemes.com/product-category/smart-phones-tablets/"
+                        >
+                          <img
+                            loading="lazy"
+                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/GoldPhone-1-300x300.png"
+                            alt="Smart Phones &amp; Tablets"
+                            width="300"
+                            height="300"
+                            srcset="
+                              https://electro.madrasthemes.com/wp-content/uploads/2016/03/GoldPhone-1-300x300.png 300w,
+                              https://electro.madrasthemes.com/wp-content/uploads/2016/03/GoldPhone-1-150x150.png 150w,
+                              https://electro.madrasthemes.com/wp-content/uploads/2016/03/GoldPhone-1-100x100.png 100w
+                            "
+                            sizes="(max-width: 300px) 100vw, 300px"
+                          />
+                        </a>
+                        <div className="category-media-body">
+                          <h4 className="category-media-heading">
+                            <a
+                              href="https://electro.madrasthemes.com/product-category/smart-phones-tablets/"
+                              >Smart Phones &amp; Tablets</a
+                            >
+                          </h4>
+                          <ul
+                            className="sub-categories list-unstyled d-none d-xl-block"
+                          >
+                            <li className="cat-item cat-item-149">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/smart-phones-tablets/accessories-smart-phones-tablets/"
+                                >Accessories</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-158">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/smart-phones-tablets/chargers-smart-phones-tablets/"
+                                >Chargers</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-184">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/smart-phones-tablets/powerbanks/"
+                                >Powerbanks</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-116">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/smart-phones-tablets/smartphones/"
+                                >Smartphones</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-117">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/smart-phones-tablets/smartphones-tablets/"
+                                >Smartphones &amp; Tablets</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-118">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/smart-phones-tablets/smartphones-tablets-2/"
+                                >Smartphones &amp; Tablets</a
+                              >
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                      <a
+                        className="see-all ms-auto d-none d-xl-inline-block"
+                        href="https://electro.madrasthemes.com/product-category/smart-phones-tablets/"
+                        >See all</a
+                      >
+                    </li>
+                    <li
+                      className="category d-xl-flex flex-xl-column position-relative"
+                    >
+                      <div
+                        className="category-media d-sm-flex align-items-sm-center align-items-xxl-start"
+                      >
+                        <a
+                          className="category-media-left"
+                          href="https://electro.madrasthemes.com/product-category/video-games-consoles/"
+                        >
+                          <img
+                            loading="lazy"
+                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/consal-300x300.png"
+                            alt="Video Games &amp; Consoles"
+                            width="300"
+                            height="300"
+                            srcset="
+                              https://electro.madrasthemes.com/wp-content/uploads/2016/03/consal-300x300.png 300w,
+                              https://electro.madrasthemes.com/wp-content/uploads/2016/03/consal-150x150.png 150w,
+                              https://electro.madrasthemes.com/wp-content/uploads/2016/03/consal-100x100.png 100w
+                            "
+                            sizes="(max-width: 300px) 100vw, 300px"
+                          />
+                        </a>
+                        <div className="category-media-body">
+                          <h4 className="category-media-heading">
+                            <a
+                              href="https://electro.madrasthemes.com/product-category/video-games-consoles/"
+                              >Video Games &amp; Consoles</a
+                            >
+                          </h4>
+                          <ul
+                            className="sub-categories list-unstyled d-none d-xl-block"
+                          >
+                            <li className="cat-item cat-item-150">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/video-games-consoles/accessories-video-games-consoles/"
+                                >Accessories</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-151">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/video-games-consoles/action-games/"
+                                >Action Games</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-173">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/video-games-consoles/game-consoles/"
+                                >Game Consoles</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-187">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/video-games-consoles/racing-games/"
+                                >Racing Games</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-189">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/video-games-consoles/station-consoles/"
+                                >Station Consoles</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-136">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/video-games-consoles/video-games-consoles-2/"
+                                >Video Games &amp; Consoles</a
+                              >
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                      <a
+                        className="see-all ms-auto d-none d-xl-inline-block"
+                        href="https://electro.madrasthemes.com/product-category/video-games-consoles/"
+                        >See all</a
+                      >
+                    </li>
+                    <li
+                      className="category d-xl-flex flex-xl-column position-relative"
+                    >
+                      <div
+                        className="category-media d-sm-flex align-items-sm-center align-items-xxl-start"
+                      >
+                        <a
+                          className="category-media-left"
+                          href="https://electro.madrasthemes.com/product-category/gadgets/"
+                        >
+                          <img
+                            loading="lazy"
+                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/applwatch-300x300.png"
+                            alt="Gadgets"
+                            width="300"
+                            height="300"
+                            srcset="
+                              https://electro.madrasthemes.com/wp-content/uploads/2016/03/applwatch-300x300.png 300w,
+                              https://electro.madrasthemes.com/wp-content/uploads/2016/03/applwatch-150x150.png 150w,
+                              https://electro.madrasthemes.com/wp-content/uploads/2016/03/applwatch-100x100.png 100w
+                            "
+                            sizes="(max-width: 300px) 100vw, 300px"
+                          />
+                        </a>
+                        <div className="category-media-body">
+                          <h4 className="category-media-heading">
+                            <a
+                              href="https://electro.madrasthemes.com/product-category/gadgets/"
+                              >Gadgets</a
+                            >
+                          </h4>
+                          <ul
+                            className="sub-categories list-unstyled d-none d-xl-block"
+                          >
+                            <li className="cat-item cat-item-65">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/gadgets/gadgets-accesories/"
+                                >Gadgets &amp; Accesories</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-119">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/gadgets/smartwatches/"
+                                >Smartwatches</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-138">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/gadgets/wearables/"
+                                >Wearables</a
+                              >
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                      <a
+                        className="see-all ms-auto d-none d-xl-inline-block"
+                        href="https://electro.madrasthemes.com/product-category/gadgets/"
+                        >See all</a
+                      >
+                    </li>
+                    <li
+                      className="category d-xl-flex flex-xl-column position-relative"
+                    >
+                      <div
+                        className="category-media d-sm-flex align-items-sm-center align-items-xxl-start"
+                      >
+                        <a
+                          className="category-media-left"
+                          href="https://electro.madrasthemes.com/product-category/home-entertainment/"
+                        >
+                          <img
+                            loading="lazy"
+                            src="https://electro.madrasthemes.com/wp-content/uploads/2021/03/homeacces-300x300.png"
+                            alt="Home Entertainment"
+                            width="300"
+                            height="300"
+                            srcset="
+                              https://electro.madrasthemes.com/wp-content/uploads/2021/03/homeacces-300x300.png 300w,
+                              https://electro.madrasthemes.com/wp-content/uploads/2021/03/homeacces-150x150.png 150w,
+                              https://electro.madrasthemes.com/wp-content/uploads/2021/03/homeacces-100x100.png 100w
+                            "
+                            sizes="(max-width: 300px) 100vw, 300px"
+                          />
+                        </a>
+                        <div className="category-media-body">
+                          <h4 className="category-media-heading">
+                            <a
+                              href="https://electro.madrasthemes.com/product-category/home-entertainment/"
+                              >Home Entertainment</a
+                            >
+                          </h4>
+                          <ul
+                            className="sub-categories list-unstyled d-none d-xl-block"
+                          >
+                            <li className="cat-item cat-item-155">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/home-entertainment/blue-ray-players/"
+                                >Blue-ray Players</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-169">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/home-entertainment/dvd-players/"
+                                >DVD Players</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-176">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/home-entertainment/home-audio-enternteinment/"
+                                >Home &amp; Audio Enternteinment</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-177">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/home-entertainment/home-audio-enternteinment-2/"
+                                >Home &amp; Audio Enternteinment</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-76">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/home-entertainment/home-theatres/"
+                                >Home Theatres</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-107">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/home-entertainment/projectors/"
+                                >Projectors</a
+                              >
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                      <a
+                        className="see-all ms-auto d-none d-xl-inline-block"
+                        href="https://electro.madrasthemes.com/product-category/home-entertainment/"
+                        >See all</a
+                      >
+                    </li>
+                    <li
+                      className="category d-xl-flex flex-xl-column position-relative"
+                    >
+                      <div
+                        className="category-media d-sm-flex align-items-sm-center align-items-xxl-start"
+                      >
+                        <a
+                          className="category-media-left"
+                          href="https://electro.madrasthemes.com/product-category/laptops-computers/"
+                        >
+                          <img
+                            loading="lazy"
+                            src="https://electro.madrasthemes.com/wp-content/uploads/2021/03/compolap-300x300.png"
+                            alt="Laptops &amp; Computers"
+                            width="300"
+                            height="300"
+                            srcset="
+                              https://electro.madrasthemes.com/wp-content/uploads/2021/03/compolap-300x300.png 300w,
+                              https://electro.madrasthemes.com/wp-content/uploads/2021/03/compolap-150x150.png 150w,
+                              https://electro.madrasthemes.com/wp-content/uploads/2021/03/compolap-100x100.png 100w
+                            "
+                            sizes="(max-width: 300px) 100vw, 300px"
+                          />
+                        </a>
+                        <div className="category-media-body">
+                          <h4 className="category-media-heading">
+                            <a
+                              href="https://electro.madrasthemes.com/product-category/laptops-computers/"
+                              >Laptops &amp; Computers</a
+                            >
+                          </h4>
+                          <ul
+                            className="sub-categories list-unstyled d-none d-xl-block"
+                          >
+                            <li className="cat-item cat-item-148">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/laptops-computers/accessories-laptops-computers/"
+                                >Accessories</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-152">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/laptops-computers/all-in-one-laptops-computers/"
+                                >All in One</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-160">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/laptops-computers/computer-accessories/"
+                                >Computer Accessories</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-162">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/laptops-computers/computer-monitors/"
+                                >Computer Monitors</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-163">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/laptops-computers/computers/"
+                                >Computers</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-166">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/laptops-computers/desktop-computers/"
+                                >Desktop Computers</a
+                              >
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                      <a
+                        className="see-all ms-auto d-none d-xl-inline-block"
+                        href="https://electro.madrasthemes.com/product-category/laptops-computers/"
+                        >See all</a
+                      >
+                    </li>
+                    <li
+                      className="category d-xl-flex flex-xl-column position-relative"
+                    >
+                      <div
+                        className="category-media d-sm-flex align-items-sm-center align-items-xxl-start"
+                      >
+                        <a
+                          className="category-media-left"
+                          href="https://electro.madrasthemes.com/product-category/accessories/"
+                        >
+                          <img
+                            loading="lazy"
+                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/1-300x300.png"
+                            alt="Accessories"
+                            width="300"
+                            height="300"
+                            srcset="
+                              https://electro.madrasthemes.com/wp-content/uploads/2016/03/1-300x300.png 300w,
+                              https://electro.madrasthemes.com/wp-content/uploads/2016/03/1-150x150.png 150w,
+                              https://electro.madrasthemes.com/wp-content/uploads/2016/03/1-100x100.png 100w
+                            "
+                            sizes="(max-width: 300px) 100vw, 300px"
+                          />
+                        </a>
+                        <div className="category-media-body">
+                          <h4 className="category-media-heading">
+                            <a
+                              href="https://electro.madrasthemes.com/product-category/accessories/"
+                              >Accessories</a
+                            >
+                          </h4>
+                          <ul
+                            className="sub-categories list-unstyled d-none d-xl-block"
+                          >
+                            <li className="cat-item cat-item-55">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/accessories/cases/"
+                                >Cases</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-58">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/accessories/chargers/"
+                                >Chargers</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-72">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/accessories/headphone-accessories/"
+                                >Headphone Accessories</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-73">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/accessories/headphone-cases/"
+                                >Headphone Cases</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-74">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/accessories/headphones/"
+                                >Headphones</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-99">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/accessories/pendrives/"
+                                >Pendrives</a
+                              >
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                      <a
+                        className="see-all ms-auto d-none d-xl-inline-block"
+                        href="https://electro.madrasthemes.com/product-category/accessories/"
+                        >See all</a
+                      >
+                    </li>
+                    <li
+                      className="category d-xl-flex flex-xl-column position-relative"
+                    >
+                      <div
+                        className="category-media d-sm-flex align-items-sm-center align-items-xxl-start"
+                      >
+                        <a
+                          className="category-media-left"
+                          href="https://electro.madrasthemes.com/product-category/cameras-photography/"
+                        >
+                          <img
+                            loading="lazy"
+                            src="https://electro.madrasthemes.com/wp-content/uploads/2018/04/cat-7-300x300.png"
+                            alt="Cameras &amp; Photography"
+                            width="300"
+                            height="300"
+                            srcset="
+                              https://electro.madrasthemes.com/wp-content/uploads/2018/04/cat-7-300x300.png 300w,
+                              https://electro.madrasthemes.com/wp-content/uploads/2018/04/cat-7-100x100.png 100w,
+                              https://electro.madrasthemes.com/wp-content/uploads/2018/04/cat-7-150x150.png 150w,
+                              https://electro.madrasthemes.com/wp-content/uploads/2018/04/cat-7.png         400w
+                            "
+                            sizes="(max-width: 300px) 100vw, 300px"
+                          />
+                        </a>
+                        <div className="category-media-body">
+                          <h4 className="category-media-heading">
+                            <a
+                              href="https://electro.madrasthemes.com/product-category/cameras-photography/"
+                              >Cameras &amp; Photography</a
+                            >
+                          </h4>
+                          <ul
+                            className="sub-categories list-unstyled d-none d-xl-block"
+                          >
+                            <li className="cat-item cat-item-157">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/cameras-photography/cameras/"
+                                >Cameras</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-101">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/cameras-photography/photo-cameras/"
+                                >Photo Cameras</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-102">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/cameras-photography/photo-cameras-2/"
+                                >Photo Cameras</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-134">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/cameras-photography/video-cameras/"
+                                >Video Cameras</a
+                              >
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                      <a
+                        className="see-all ms-auto d-none d-xl-inline-block"
+                        href="https://electro.madrasthemes.com/product-category/cameras-photography/"
+                        >See all</a
+                      >
+                    </li>
+                    <li
+                      className="category d-xl-flex flex-xl-column position-relative"
+                    >
+                      <div
+                        className="category-media d-sm-flex align-items-sm-center align-items-xxl-start"
+                      >
+                        <a
+                          className="category-media-left"
+                          href="https://electro.madrasthemes.com/product-category/computer-components/"
+                        >
+                          <img
+                            loading="lazy"
+                            src="https://electro.madrasthemes.com/wp-content/uploads/2021/03/sapeaker-300x300.png"
+                            alt="Computer Components"
+                            width="300"
+                            height="300"
+                            srcset="
+                              https://electro.madrasthemes.com/wp-content/uploads/2021/03/sapeaker-300x300.png 300w,
+                              https://electro.madrasthemes.com/wp-content/uploads/2021/03/sapeaker-150x150.png 150w,
+                              https://electro.madrasthemes.com/wp-content/uploads/2021/03/sapeaker-100x100.png 100w
+                            "
+                            sizes="(max-width: 300px) 100vw, 300px"
+                          />
+                        </a>
+                        <div className="category-media-body">
+                          <h4 className="category-media-heading">
+                            <a
+                              href="https://electro.madrasthemes.com/product-category/computer-components/"
+                              >Computer Components</a
+                            >
+                          </h4>
+                          <ul
+                            className="sub-categories list-unstyled d-none d-xl-block"
+                          >
+                            <li className="cat-item cat-item-161">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/computer-components/computer-cases/"
+                                >Computer Cases</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-61">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/computer-components/desktops/"
+                                >Desktops</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-93">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/computer-components/monitors/"
+                                >Monitors</a
+                              >
+                            </li>
+                            <li className="cat-item cat-item-121">
+                              <a
+                                href="https://electro.madrasthemes.com/product-category/computer-components/software-computer-components/"
+                                >Software</a
+                              >
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                      <a
+                        className="see-all ms-auto d-none d-xl-inline-block"
+                        href="https://electro.madrasthemes.com/product-category/computer-components/"
+                        >See all</a
+                      >
+                    </li>
+                  </ul>
+                </section>
+                <section
+                  className="section-products-carousel section-products-carousel__wide"
+                >
+                  <header>
+                    <h2 className="h1">Recently Viewed</h2>
+                    <div className="owl-nav">
+                      <a
+                        href="#products-carousel-prev"
+                        data-target="#products-carousel-65c2fb39131dd"
+                        className="slider-prev"
+                        ><i className="fa fa-angle-left"></i
+                      ></a>
+                      <a
+                        href="#products-carousel-next"
+                        data-target="#products-carousel-65c2fb39131dd"
+                        className="slider-next"
+                        ><i className="fa fa-angle-right"></i
+                      ></a>
+                    </div>
+                  </header>
+                  <div
+                    id="products-carousel-65c2fb39131dd"
+                    data-ride="owl-carousel"
+                    data-replace-active-className="true"
+                    data-carousel-selector=".products-carousel"
+                    data-carousel-options='{"items":"6","nav":false,"slideSpeed":300,"dots":true,"rtl":false,"paginationSpeed":400,"navText":["",""],"margin":0,"touchDrag":true,"responsive":{"0":{"items":2},"480":{"items":3},"768":{"items":4},"992":{"items":4},"1200":{"items":"6"},"1480":{"items":"7"}},"autoplay":false}'
+                  >
+                    <div className="woocommerce columns-6">
+                      <div
+                        data-view="grid"
+                        data-bs-toggle="regular-products"
+                        className="products owl-carousel products-carousel products list-unstyled row g-0 row-cols-2 row-cols-md-3 row-cols-lg-6 row-cols-xl-6 row-cols-xxl-5 owl-loaded owl-drag"
+                      >
+                        <div className="owl-stage-outer">
+                          <div
+                            className="owl-stage"
+                            style={{
+                              transform": " translate3d(0px, 0px, 0px)", "
+                              transition": " all 0s ease 0s", "
+                              width": " 4650px", "
+                            "}}
+                          >
+                            <div className="owl-item active" style={{width": " 232.5px"}}>
+                              <div
+                                className="product type-product post-2440 status-publish first instock product_cat-headphone-cases has-post-thumbnail shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/accessories/headphone-cases/"
+                                          rel="tag"
+                                          >Headphone Cases</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/universal-headphones-case-in-black/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Universal Headphones Case in Black
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/headphonecase-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/accessories/headphone-cases/"
+                                          rel="tag"
+                                          >Headphone Cases</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/universal-headphones-case-in-black/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Universal Headphones Case in Black
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            title="Rated 0 out of 5"
+                                          >
+                                            <span style={{width": " 0%"}}
+                                              ><strong className="rating">0</strong>
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (0)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Brand new and high
+                                                quality</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Made of supreme quality,
+                                                durable EVA crush resistant,
+                                                anti-shock material.</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Soft inner cloth lining, one
+                                                mesh pocket inside.</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Compact and functional hard
+                                                case keeps items safe and
+                                                extremely portable.</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Force Touch trackpad (13-inch
+                                                model)</span
+                                              >
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: 5487FB8/28
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><span
+                                              className="woocommerce-Price-amount amount"
+                                              ><bdi
+                                                ><span
+                                                  className="woocommerce-Price-currencySymbol"
+                                                  >$</span
+                                                >159.00</bdi
+                                              ></span
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2440"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2440"
+                                            data-product_sku="5487FB8/28"
+                                            aria-label="Add to cart: “Universal Headphones Case in Black”"
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2440 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2440"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2440,"parent_product_id":2440,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2440&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2440"
+                                                data-product-type="simple"
+                                                data-original-product-id="2440"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2440"
+                                            className="add-to-compare-link"
+                                            data-product_id="2440"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div className="owl-item active" style={{width": " 232.5px"}}>
+                              <div
+                                className="product type-product post-2441 status-publish instock product_cat-headphone-accessories has-post-thumbnail shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/accessories/headphone-accessories/"
+                                          rel="tag"
+                                          >Headphone Accessories</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/headphones-usb-wires/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Headphones USB Wires
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/usbheadphone-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/accessories/headphone-accessories/"
+                                          rel="tag"
+                                          >Headphone Accessories</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/headphones-usb-wires/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Headphones USB Wires
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            title="Rated 0 out of 5"
+                                          >
+                                            <span style={{width": " 0%"}}
+                                              ><strong className="rating">0</strong>
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (0)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >High-fidelity stereo music and
+                                                clear speech</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >100% Stable and Comfortable
+                                                when exercising, running and
+                                                other outdoor sports</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Up to 6 hours music play</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >7 hours talking time</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Force Touch trackpad (13-inch
+                                                model)</span
+                                              >
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: 5487FB8/27
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><span
+                                              className="woocommerce-Price-amount amount"
+                                              ><bdi
+                                                ><span
+                                                  className="woocommerce-Price-currencySymbol"
+                                                  >$</span
+                                                >50.00</bdi
+                                              ></span
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2441"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2441"
+                                            data-product_sku="5487FB8/27"
+                                            aria-label="Add to cart: “Headphones USB Wires”"
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2441 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2441"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2441,"parent_product_id":2441,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2441&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2441"
+                                                data-product-type="simple"
+                                                data-original-product-id="2441"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2441"
+                                            className="add-to-compare-link"
+                                            data-product_id="2441"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div className="owl-item active" style={{width": " 232.5px"}}>
+                              <div
+                                className="product type-product post-2439 status-publish instock product_cat-headphones product_tag-fast product_tag-gaming product_tag-strong has-post-thumbnail shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/accessories/headphones/"
+                                          rel="tag"
+                                          >Headphones</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/ultra-wireless-s50-headphones-s50-with-bluetooth/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Ultra Wireless S50 Headphones S50 with
+                                          Bluetooth
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/1-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/accessories/headphones/"
+                                          rel="tag"
+                                          >Headphones</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/ultra-wireless-s50-headphones-s50-with-bluetooth/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Ultra Wireless S50 Headphones S50 with
+                                          Bluetooth
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            role="img"
+                                            aria-label="Rated 4.33 out of 5"
+                                          >
+                                            <span style={{width": " 86.6%"}}
+                                              >Rated
+                                              <strong className="rating"
+                                                >4.33</strong
+                                              >
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (3)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>
+                                              4.5 inch HD Touch Screen (1280 x
+                                              720)
+                                            </div>
+                                            <div>Android 4.4 KitKat OS</div>
+                                            <div>
+                                              1.4 GHz Quad Core™ Processor
+                                            </div>
+                                            <div>
+                                              20 MP front and 28 megapixel CMOS
+                                              rear camera
+                                            </div>
+                                          </div>
+                                          <p>
+                                            Lorem ipsum dolor sit amet,
+                                            consectetur adipisicing elit, sed do
+                                            eiusmod tempor incididunt.
+                                          </p>
+                                          <p>
+                                            <strong>SKU</strong>: FW511948218
+                                          </p>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: FW511948218
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><span
+                                              className="woocommerce-Price-amount amount"
+                                              ><bdi
+                                                ><span
+                                                  className="woocommerce-Price-currencySymbol"
+                                                  >$</span
+                                                >350.00</bdi
+                                              ></span
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2439"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2439"
+                                            data-product_sku="FW511948218"
+                                            aria-label="Add to cart: “Ultra Wireless S50 Headphones S50 with Bluetooth”"
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2439 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2439"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2439,"parent_product_id":2439,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2439&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2439"
+                                                data-product-type="simple"
+                                                data-original-product-id="2439"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2439"
+                                            className="add-to-compare-link"
+                                            data-product_id="2439"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div className="owl-item active" style={{width": " 232.5px"}}>
+                              <div
+                                className="product type-product post-2603 status-publish instock product_cat-audio-speakers has-post-thumbnail shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/tv-audio/audio-speakers/"
+                                          rel="tag"
+                                          >Audio Speakers</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/wireless-audio-system-multiroom-360/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Wireless Audio System Multiroom 360
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/WirelessSound-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/tv-audio/audio-speakers/"
+                                          rel="tag"
+                                          >Audio Speakers</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/wireless-audio-system-multiroom-360/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Wireless Audio System Multiroom 360
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            title="Rated 0 out of 5"
+                                          >
+                                            <span style={{width": " 0%"}}
+                                              ><strong className="rating">0</strong>
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (0)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >360 Omnidirectional Sound</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Easy Intuitive Control</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Multiroom App</span
+                                              >
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: 5487FB8/25
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><span
+                                              className="woocommerce-Price-amount amount"
+                                              ><bdi
+                                                ><span
+                                                  className="woocommerce-Price-currencySymbol"
+                                                  >$</span
+                                                >2,299.00</bdi
+                                              ></span
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2603"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2603"
+                                            data-product_sku="5487FB8/25"
+                                            aria-label="Add to cart: “Wireless Audio System Multiroom 360”"
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2603 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2603"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2603,"parent_product_id":2603,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2603&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2603"
+                                                data-product-type="simple"
+                                                data-original-product-id="2603"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2603"
+                                            className="add-to-compare-link"
+                                            data-product_id="2603"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div className="owl-item" style={{width": " 232.5px"}}>
+                              <div
+                                className="product type-product post-2606 status-publish instock product_cat-laptops-laptops-computers has-post-thumbnail shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/laptops-computers/laptops-laptops-computers/"
+                                          rel="tag"
+                                          >Laptops</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/tablet-white-elitebook-revolve-810-g2/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Tablet White EliteBook Revolve 810 G2
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/Ultrabooks-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/laptops-computers/laptops-laptops-computers/"
+                                          rel="tag"
+                                          >Laptops</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/tablet-white-elitebook-revolve-810-g2/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Tablet White EliteBook Revolve 810 G2
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            role="img"
+                                            aria-label="Rated 4.33 out of 5"
+                                          >
+                                            <span style={{width": " 86.6%"}}
+                                              >Rated
+                                              <strong className="rating"
+                                                >4.33</strong
+                                              >
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (3)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Screen Size: 11.6″</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item">
+                                                Processor Type: Core i5</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item">
+                                                Processor Speed: 1.90 GHz</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Standard Memory: 4 GB</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item">
+                                                Operating System: Windows 8.1
+                                                Pro</span
+                                              >
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: 5487FB8/26
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><span
+                                              className="woocommerce-Price-amount amount"
+                                              ><bdi
+                                                ><span
+                                                  className="woocommerce-Price-currencySymbol"
+                                                  >$</span
+                                                >1,300.00</bdi
+                                              ></span
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2606"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2606"
+                                            data-product_sku="5487FB8/26"
+                                            aria-label="Add to cart: “Tablet White EliteBook  Revolve 810 G2”"
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2606 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2606"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2606,"parent_product_id":2606,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2606&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2606"
+                                                data-product-type="simple"
+                                                data-original-product-id="2606"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2606"
+                                            className="add-to-compare-link"
+                                            data-product_id="2606"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div className="owl-item" style={{width": " 232.5px"}}>
+                              <div
+                                className="product type-product post-2608 status-publish last instock product_cat-headphones has-post-thumbnail shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/accessories/headphones/"
+                                          rel="tag"
+                                          >Headphones</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/purple-solo-2-wireless/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Purple Solo 2 Wireless
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/heade1-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/accessories/headphones/"
+                                          rel="tag"
+                                          >Headphones</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/purple-solo-2-wireless/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Purple Solo 2 Wireless
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            title="Rated 0 out of 5"
+                                          >
+                                            <span style={{width": " 0%"}}
+                                              ><strong className="rating">0</strong>
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (0)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Fine-tuned acoustics for
+                                                clarity, breadth and
+                                                balance</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Streamlined design for a
+                                                custom-fit</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item">
+                                                Durable and foldable so you can
+                                                take them on-the-go</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >ake calls and control music
+                                                with RemoteTalk cable</span
+                                              >
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: 5487FB8/24
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><span
+                                              className="woocommerce-Price-amount amount"
+                                              ><bdi
+                                                ><span
+                                                  className="woocommerce-Price-currencySymbol"
+                                                  >$</span
+                                                >248.00</bdi
+                                              ></span
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2608"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2608"
+                                            data-product_sku="5487FB8/24"
+                                            aria-label="Add to cart: “Purple Solo 2 Wireless”"
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2608 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2608"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2608,"parent_product_id":2608,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2608&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2608"
+                                                data-product-type="simple"
+                                                data-original-product-id="2608"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2608"
+                                            className="add-to-compare-link"
+                                            data-product_id="2608"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div
+                              className="owl-item last-active"
+                              style={{width": " 232.5px"}}
+                            >
+                              <div
+                                className="product type-product post-2609 status-publish first instock product_cat-laptops-laptops-computers has-post-thumbnail shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/laptops-computers/laptops-laptops-computers/"
+                                          rel="tag"
+                                          >Laptops</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/notebook-widescreen-y700-17-gf790/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Notebook Widescreen Y700-17 GF790
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/asuaslap-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/laptops-computers/laptops-laptops-computers/"
+                                          rel="tag"
+                                          >Laptops</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/notebook-widescreen-y700-17-gf790/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Notebook Widescreen Y700-17 GF790
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            role="img"
+                                            aria-label="Rated 4.00 out of 5"
+                                          >
+                                            <span style={{width": " 80%"}}
+                                              >Rated
+                                              <strong className="rating"
+                                                >4.00</strong
+                                              >
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (3)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>4.5 inch HD Screen</div>
+                                            <div>Android 4.4 KitKat OS</div>
+                                            <div>
+                                              1.4 GHz Quad Core™ Processor
+                                            </div>
+                                            <div>3GB Ram</div>
+                                          </div>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: 5487FB8/01
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><span
+                                              className="woocommerce-Price-amount amount"
+                                              ><bdi
+                                                ><span
+                                                  className="woocommerce-Price-currencySymbol"
+                                                  >$</span
+                                                >1,299.00</bdi
+                                              ></span
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2609"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2609"
+                                            data-product_sku="5487FB8/01"
+                                            aria-label="Add to cart: “Notebook Widescreen Y700-17 GF790”"
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2609 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2609"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2609,"parent_product_id":2609,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2609&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2609"
+                                                data-product-type="simple"
+                                                data-original-product-id="2609"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2609"
+                                            className="add-to-compare-link"
+                                            data-product_id="2609"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div className="owl-item" style={{width": " 232.5px"}}>
+                              <div
+                                className="product type-product post-2611 status-publish instock product_cat-laptops-laptops-computers has-post-thumbnail featured shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/laptops-computers/laptops-laptops-computers/"
+                                          rel="tag"
+                                          >Laptops</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/laptop-wifi-cx61-2qf-15-6-4210m/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Laptop WiFi CX61 2QF 15.6″ 4210M
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/macpro-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/laptops-computers/laptops-laptops-computers/"
+                                          rel="tag"
+                                          >Laptops</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/laptop-wifi-cx61-2qf-15-6-4210m/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Laptop WiFi CX61 2QF 15.6″ 4210M
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            role="img"
+                                            aria-label="Rated 4.67 out of 5"
+                                          >
+                                            <span style={{width": " 93.4%"}}
+                                              >Rated
+                                              <strong className="rating"
+                                                >4.67</strong
+                                              >
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (3)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Intel Core i5 processors
+                                                (13-inch model)</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Intel Iris Graphics 6100
+                                                (13-inch model)</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Flash storage</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Up to 10 hours of battery life2
+                                                (13-inch model)</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Force Touch trackpad (13-inch
+                                                model)</span
+                                              >
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: 5487FB8/02
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><span
+                                              className="woocommerce-Price-amount amount"
+                                              ><bdi
+                                                ><span
+                                                  className="woocommerce-Price-currencySymbol"
+                                                  >$</span
+                                                >2,299.00</bdi
+                                              ></span
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2611"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2611"
+                                            data-product_sku="5487FB8/02"
+                                            aria-label='Add to cart: “Laptop WiFi CX61 2QF 15.6" 4210M”'
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2611 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2611"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2611,"parent_product_id":2611,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2611&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2611"
+                                                data-product-type="simple"
+                                                data-original-product-id="2611"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2611"
+                                            className="add-to-compare-link"
+                                            data-product_id="2611"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div className="owl-item" style={{width": " 232.5px"}}>
+                              <div
+                                className="product type-product post-2613 status-publish instock product_cat-laptops-laptops-computers has-post-thumbnail shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/laptops-computers/laptops-laptops-computers/"
+                                          rel="tag"
+                                          >Laptops</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/laptop-screener-cx70-2qf-621xpl-17-3-4210/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Laptop Screener CX70 2QF-621XPL 17.3″
+                                          4210
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/applap-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/laptops-computers/laptops-laptops-computers/"
+                                          rel="tag"
+                                          >Laptops</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/laptop-screener-cx70-2qf-621xpl-17-3-4210/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Laptop Screener CX70 2QF-621XPL 17.3″
+                                          4210
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            role="img"
+                                            aria-label="Rated 4.67 out of 5"
+                                          >
+                                            <span style={{width": " 93.4%"}}
+                                              >Rated
+                                              <strong className="rating"
+                                                >4.67</strong
+                                              >
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (3)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Intel Core i5 processors
+                                                (13-inch model)</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Intel Iris Graphics 6100
+                                                (13-inch model)</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Flash storage</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Up to 10 hours of battery life2
+                                                (13-inch model)</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Force Touch trackpad (13-inch
+                                                model)</span
+                                              >
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: 5487FB8/04
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><span
+                                              className="woocommerce-Price-amount amount"
+                                              ><bdi
+                                                ><span
+                                                  className="woocommerce-Price-currencySymbol"
+                                                  >$</span
+                                                >2,399.00</bdi
+                                              ></span
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2613"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2613"
+                                            data-product_sku="5487FB8/04"
+                                            aria-label='Add to cart: “Laptop Screener CX70  2QF-621XPL 17.3" 4210”'
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2613 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2613"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2613,"parent_product_id":2613,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2613&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2613"
+                                                data-product-type="simple"
+                                                data-original-product-id="2613"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2613"
+                                            className="add-to-compare-link"
+                                            data-product_id="2613"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div className="owl-item" style={{width": " 232.5px"}}>
+                              <div
+                                className="product type-product post-2617 status-publish instock product_cat-laptops-laptops-computers has-post-thumbnail shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/laptops-computers/laptops-laptops-computers/"
+                                          rel="tag"
+                                          >Laptops</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/laptop-r752lj-173-5200u-4gb-1tb/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Laptop R752LJ 17,3” 5200U 4GB 1TB
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/asuaslap-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/laptops-computers/laptops-laptops-computers/"
+                                          rel="tag"
+                                          >Laptops</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/laptop-r752lj-173-5200u-4gb-1tb/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Laptop R752LJ 17,3” 5200U 4GB 1TB
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            role="img"
+                                            aria-label="Rated 3.67 out of 5"
+                                          >
+                                            <span style={{width": " 73.4%"}}
+                                              >Rated
+                                              <strong className="rating"
+                                                >3.67</strong
+                                              >
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (3)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Intel® Core™ i5-5200U, 2,2
+                                                GHz</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >1 TB HDD, 8 GB RAM</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >NVIDIA® GeForce® 920M</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Windows 10 Home (64 Bit)</span
+                                              >
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: 5487FB8/05
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><span
+                                              className="woocommerce-Price-amount amount"
+                                              ><bdi
+                                                ><span
+                                                  className="woocommerce-Price-currencySymbol"
+                                                  >$</span
+                                                >1,100.00</bdi
+                                              ></span
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2617"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2617"
+                                            data-product_sku="5487FB8/05"
+                                            aria-label="Add to cart: “Laptop R752LJ 17,3''  5200U 4GB 1TB”"
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2617 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2617"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2617,"parent_product_id":2617,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2617&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2617"
+                                                data-product-type="simple"
+                                                data-original-product-id="2617"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2617"
+                                            className="add-to-compare-link"
+                                            data-product_id="2617"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div className="owl-item" style={{width": " 232.5px"}}>
+                              <div
+                                className="product type-product post-2619 status-publish instock product_cat-computer-cases product_cat-servers has-post-thumbnail sale featured shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/computer-components/computer-cases/"
+                                          rel="tag"
+                                          >Computer Cases</a
+                                        >,
+                                        <a
+                                          href="https://electro.madrasthemes.com/product-category/laptops-computers/servers/"
+                                          rel="tag"
+                                          >Servers</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/aerocool-en52377-dead-silence-gaming-cube-case/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Aerocool EN52377 Dead Silence Gaming
+                                          Cube Case
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/gamecabin-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/computer-components/computer-cases/"
+                                          rel="tag"
+                                          >Computer Cases</a
+                                        >,
+                                        <a
+                                          href="https://electro.madrasthemes.com/product-category/laptops-computers/servers/"
+                                          rel="tag"
+                                          >Servers</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/aerocool-en52377-dead-silence-gaming-cube-case/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Aerocool EN52377 Dead Silence Gaming
+                                          Cube Case
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            role="img"
+                                            aria-label="Rated 3.67 out of 5"
+                                          >
+                                            <span style={{width": " 73.4%"}}
+                                              >Rated
+                                              <strong className="rating"
+                                                >3.67</strong
+                                              >
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (3)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Super-Silent cube gaming case
+                                                solidly built with 0.8mm SGCC to
+                                                block out most of the
+                                                noise.</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Leathercoated front and top
+                                                panels with smooth surface
+                                                finishing</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Removable top cover for easy
+                                                access to Motherboard</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Completely removable ODD+FDD
+                                                rack for ease of installing
+                                                water cooling system</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Supports a complete 240mm water
+                                                cooling system on the top
+                                                panel</span
+                                              >
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: 5487FB8/06
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><ins
+                                              ><span
+                                                className="woocommerce-Price-amount amount"
+                                                ><bdi
+                                                  ><span
+                                                    className="woocommerce-Price-currencySymbol"
+                                                    >$</span
+                                                  >150.00</bdi
+                                                ></span
+                                              ></ins
+                                            >
+                                            <del
+                                              ><span
+                                                className="woocommerce-Price-amount amount"
+                                                ><bdi
+                                                  ><span
+                                                    className="woocommerce-Price-currencySymbol"
+                                                    >$</span
+                                                  >180.00</bdi
+                                                ></span
+                                              ></del
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2619"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2619"
+                                            data-product_sku="5487FB8/06"
+                                            aria-label="Add to cart: “Aerocool EN52377 Dead  Silence Gaming Cube Case”"
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2619 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2619"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2619,"parent_product_id":2619,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2619&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2619"
+                                                data-product-type="simple"
+                                                data-original-product-id="2619"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2619"
+                                            className="add-to-compare-link"
+                                            data-product_id="2619"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div className="owl-item" style={{width": " 232.5px"}}>
+                              <div
+                                className="product type-product post-2621 status-publish last instock product_cat-printers has-post-thumbnail featured shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/printers-ink/printers/"
+                                          rel="tag"
+                                          >Printers</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/full-color-laserjet-pro-m452dn/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Full Color LaserJet Pro M452dn
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/printer-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/printers-ink/printers/"
+                                          rel="tag"
+                                          >Printers</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/full-color-laserjet-pro-m452dn/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Full Color LaserJet Pro M452dn
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            role="img"
+                                            aria-label="Rated 4.00 out of 5"
+                                          >
+                                            <span style={{width": " 80%"}}
+                                              >Rated
+                                              <strong className="rating"
+                                                >4.00</strong
+                                              >
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (3)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Easy management</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Fast printing. Strong
+                                                protection.</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Easy management. Efficient
+                                                printing.</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >The 2-line LCD display is
+                                                simple to read and
+                                                operate.</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Stay connected with easy mobile
+                                                printing options</span
+                                              >
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: 5487FB8/07
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><span
+                                              className="woocommerce-Price-amount amount"
+                                              ><bdi
+                                                ><span
+                                                  className="woocommerce-Price-currencySymbol"
+                                                  >$</span
+                                                >1,050.00</bdi
+                                              ></span
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2621"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2621"
+                                            data-product_sku="5487FB8/07"
+                                            aria-label="Add to cart: “Full Color LaserJet Pro  M452dn”"
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2621 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2621"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2621,"parent_product_id":2621,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2621&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2621"
+                                                data-product-type="simple"
+                                                data-original-product-id="2621"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2621"
+                                            className="add-to-compare-link"
+                                            data-product_id="2621"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div className="owl-item" style={{width": " 232.5px"}}>
+                              <div
+                                className="product type-product post-2623 status-publish first instock product_cat-cameras has-post-thumbnail featured shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/cameras-photography/cameras/"
+                                          rel="tag"
+                                          >Cameras</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/white-nx-mini-f1-smart-nx/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          White NX Mini F1 SMART NX
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/camera2-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/cameras-photography/cameras/"
+                                          rel="tag"
+                                          >Cameras</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/white-nx-mini-f1-smart-nx/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          White NX Mini F1 SMART NX
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            title="Rated 0 out of 5"
+                                          >
+                                            <span style={{width": " 0%"}}
+                                              ><strong className="rating">0</strong>
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (0)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Ultra Slim &amp; Stylish</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Perfect for Selfies</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Capture &amp; Share on the
+                                                Go</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Outstanding Optics</span
+                                              >
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: 5487FB8/08
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><span
+                                              className="woocommerce-Price-amount amount"
+                                              ><bdi
+                                                ><span
+                                                  className="woocommerce-Price-currencySymbol"
+                                                  >$</span
+                                                >559.00</bdi
+                                              ></span
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2623"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2623"
+                                            data-product_sku="5487FB8/08"
+                                            aria-label="Add to cart: “White NX Mini F1  SMART NX”"
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2623 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2623"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2623,"parent_product_id":2623,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2623&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2623"
+                                                data-product-type="simple"
+                                                data-original-product-id="2623"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2623"
+                                            className="add-to-compare-link"
+                                            data-product_id="2623"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div className="owl-item" style={{width": " 232.5px"}}>
+                              <div
+                                className="product type-product post-2625 status-publish instock product_cat-smartphones has-post-thumbnail sale featured shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/smart-phones-tablets/smartphones/"
+                                          rel="tag"
+                                          >Smartphones</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/smartphone-6s-32gb-lte/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Smartphone 6S 32GB LTE
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/GoldPhone-1-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/smart-phones-tablets/smartphones/"
+                                          rel="tag"
+                                          >Smartphones</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/smartphone-6s-32gb-lte/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Smartphone 6S 32GB LTE
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            title="Rated 0 out of 5"
+                                          >
+                                            <span style={{width": " 0%"}}
+                                              ><strong className="rating">0</strong>
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (0)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>4.5 inch HD Screen</div>
+                                            <div>Android 4.4 KitKat OS</div>
+                                            <div>
+                                              1.4 GHz Quad Core™ Processor
+                                            </div>
+                                            <div>20 MP front Camera</div>
+                                          </div>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: 5487FB8/19
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><ins
+                                              ><span
+                                                className="woocommerce-Price-amount amount"
+                                                ><bdi
+                                                  ><span
+                                                    className="woocommerce-Price-currencySymbol"
+                                                    >$</span
+                                                  >1,100.00</bdi
+                                                ></span
+                                              ></ins
+                                            >
+                                            <del
+                                              ><span
+                                                className="woocommerce-Price-amount amount"
+                                                ><bdi
+                                                  ><span
+                                                    className="woocommerce-Price-currencySymbol"
+                                                    >$</span
+                                                  >1,215.00</bdi
+                                                ></span
+                                              ></del
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2625"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2625"
+                                            data-product_sku="5487FB8/19"
+                                            aria-label="Add to cart: “Smartphone 6S 32GB LTE”"
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2625 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2625"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2625,"parent_product_id":2625,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2625&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2625"
+                                                data-product-type="simple"
+                                                data-original-product-id="2625"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2625"
+                                            className="add-to-compare-link"
+                                            data-product_id="2625"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div className="owl-item" style={{width": " 232.5px"}}>
+                              <div
+                                className="product type-product post-2628 status-publish instock product_cat-power-banks has-post-thumbnail sale shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/accessories/power-banks/"
+                                          rel="tag"
+                                          >Power Banks</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/powerbank-1130-mah-blue/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Powerbank 1130 mAh Blue
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/powerbank-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/accessories/power-banks/"
+                                          rel="tag"
+                                          >Power Banks</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/powerbank-1130-mah-blue/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Powerbank 1130 mAh Blue
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            title="Rated 0 out of 5"
+                                          >
+                                            <span style={{width": " 0%"}}
+                                              ><strong className="rating">0</strong>
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (0)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >11300 mAh</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >LED Indicator</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >5V</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >2.0A Output</span
+                                              >
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: 5487FB8/09
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><ins
+                                              ><span
+                                                className="woocommerce-Price-amount amount"
+                                                ><bdi
+                                                  ><span
+                                                    className="woocommerce-Price-currencySymbol"
+                                                    >$</span
+                                                  >200.00</bdi
+                                                ></span
+                                              ></ins
+                                            >
+                                            <del
+                                              ><span
+                                                className="woocommerce-Price-amount amount"
+                                                ><bdi
+                                                  ><span
+                                                    className="woocommerce-Price-currencySymbol"
+                                                    >$</span
+                                                  >210.00</bdi
+                                                ></span
+                                              ></del
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2628"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2628"
+                                            data-product_sku="5487FB8/09"
+                                            aria-label="Add to cart: “Powerbank 1130 mAh  Blue”"
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2628 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2628"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2628,"parent_product_id":2628,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2628&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2628"
+                                                data-product-type="simple"
+                                                data-original-product-id="2628"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2628"
+                                            className="add-to-compare-link"
+                                            data-product_id="2628"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div className="owl-item" style={{width": " 232.5px"}}>
+                              <div
+                                className="product type-product post-2630 status-publish instock product_cat-smartwatches has-post-thumbnail sale shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/gadgets/smartwatches/"
+                                          rel="tag"
+                                          >Smartwatches</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/smartwatch-2-0-lte-wifi-waterproof/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Smartwatch 2.0 LTE Wifi Waterproof
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/watch-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/gadgets/smartwatches/"
+                                          rel="tag"
+                                          >Smartwatches</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/smartwatch-2-0-lte-wifi-waterproof/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Smartwatch 2.0 LTE Wifi Waterproof
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            role="img"
+                                            aria-label="Rated 5.00 out of 5"
+                                          >
+                                            <span style={{width": " 100%"}}
+                                              >Rated
+                                              <strong className="rating"
+                                                >5.00</strong
+                                              >
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (3)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Water protected, dust and
+                                                scratch-resistant</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Easy calling</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >One-touch SmartWatch</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >New software update</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Anywhere. Any weather<br />
+                                              </span>
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: 5487FB8/10
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><ins
+                                              ><span
+                                                className="woocommerce-Price-amount amount"
+                                                ><bdi
+                                                  ><span
+                                                    className="woocommerce-Price-currencySymbol"
+                                                    >$</span
+                                                  >700.00</bdi
+                                                ></span
+                                              ></ins
+                                            >
+                                            <del
+                                              ><span
+                                                className="woocommerce-Price-amount amount"
+                                                ><bdi
+                                                  ><span
+                                                    className="woocommerce-Price-currencySymbol"
+                                                    >$</span
+                                                  >725.00</bdi
+                                                ></span
+                                              ></del
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2630"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2630"
+                                            data-product_sku="5487FB8/10"
+                                            aria-label="Add to cart: “Smartwatch 2.0 LTE Wifi  Waterproof”"
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2630 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2630"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2630,"parent_product_id":2630,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2630&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2630"
+                                                data-product-type="simple"
+                                                data-original-product-id="2630"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2630"
+                                            className="add-to-compare-link"
+                                            data-product_id="2630"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div className="owl-item" style={{width": " 232.5px"}}>
+                              <div
+                                className="product type-product post-2632 status-publish instock product_cat-cameras has-post-thumbnail shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/cameras-photography/cameras/"
+                                          rel="tag"
+                                          >Cameras</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/smart-camera-6200u-with-500gb-sdcard/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Smart Camera 6200U with 500GB SDcard
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/cam4k-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/cameras-photography/cameras/"
+                                          rel="tag"
+                                          >Cameras</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/smart-camera-6200u-with-500gb-sdcard/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Smart Camera 6200U with 500GB SDcard
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            role="img"
+                                            aria-label="Rated 4.33 out of 5"
+                                          >
+                                            <span style={{width": " 86.6%"}}
+                                              >Rated
+                                              <strong className="rating"
+                                                >4.33</strong
+                                              >
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (3)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >35X optical zoom</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >16.2 megapixels</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >3″ diagonal TFT LCD
+                                                display</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >Face detection</span
+                                              >
+                                            </div>
+                                            <div>
+                                              <span className="a-list-item"
+                                                >TTL auto focus system with five
+                                                modes</span
+                                              >
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: 5487FB8/11
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><span
+                                              className="woocommerce-Price-amount amount"
+                                              ><bdi
+                                                ><span
+                                                  className="woocommerce-Price-currencySymbol"
+                                                  >$</span
+                                                >2,999.00</bdi
+                                              ></span
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2632"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2632"
+                                            data-product_sku="5487FB8/11"
+                                            aria-label="Add to cart: “Smart Camera 6200U with 500GB SDcard”"
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2632 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2632"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2632,"parent_product_id":2632,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2632&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2632"
+                                                data-product-type="simple"
+                                                data-original-product-id="2632"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2632"
+                                            className="add-to-compare-link"
+                                            data-product_id="2632"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div className="owl-item" style={{width": " 232.5px"}}>
+                              <div
+                                className="product type-product post-2635 status-publish last instock product_cat-chargers has-post-thumbnail featured shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/accessories/chargers/"
+                                          rel="tag"
+                                          >Chargers</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/wireless-charger-2040-white/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Wireless Charger 2040 White
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/whirelesscar-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/accessories/chargers/"
+                                          rel="tag"
+                                          >Chargers</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/wireless-charger-2040-white/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Wireless Charger 2040 White
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            title="Rated 0 out of 5"
+                                          >
+                                            <span style={{width": " 0%"}}
+                                              ><strong className="rating">0</strong>
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (0)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>
+                                              Wireless Fast Charge feature
+                                              available for even faster charging
+                                              speeds on select models
+                                            </div>
+                                            <div>
+                                              Portable, attractive design for
+                                              use in multiple locations
+                                            </div>
+                                            <div>
+                                              Multi-colored LED halo indicates
+                                              charging status
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: 5487FB8/13
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><span
+                                              className="woocommerce-Price-amount amount"
+                                              ><bdi
+                                                ><span
+                                                  className="woocommerce-Price-currencySymbol"
+                                                  >$</span
+                                                >248.00</bdi
+                                              ></span
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2635"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2635"
+                                            data-product_sku="5487FB8/13"
+                                            aria-label="Add to cart: “Wireless Charger 2040 White”"
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2635 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2635"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2635,"parent_product_id":2635,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2635&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2635"
+                                                data-product-type="simple"
+                                                data-original-product-id="2635"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2635"
+                                            className="add-to-compare-link"
+                                            data-product_id="2635"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div className="owl-item" style={{width": " 232.5px"}}>
+                              <div
+                                className="product type-product post-2637 status-publish first instock product_cat-smartphones has-post-thumbnail sale shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/smart-phones-tablets/smartphones/"
+                                          rel="tag"
+                                          >Smartphones</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/ultrabook-ux305ca-fc050t/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Ultrabook UX305CA-FC050T
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/redmi-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/smart-phones-tablets/smartphones/"
+                                          rel="tag"
+                                          >Smartphones</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/ultrabook-ux305ca-fc050t/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Ultrabook UX305CA-FC050T
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            role="img"
+                                            aria-label="Rated 4.67 out of 5"
+                                          >
+                                            <span style={{width": " 93.4%"}}
+                                              >Rated
+                                              <strong className="rating"
+                                                >4.67</strong
+                                              >
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (3)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>4.5 inch HD Screen</div>
+                                            <div>Android 4.4 KitKat OS</div>
+                                            <div>
+                                              1.4 GHz Quad Core™ Processor
+                                            </div>
+                                            <div>20 MP front Camera</div>
+                                          </div>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: 5487FB8/14
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><ins
+                                              ><span
+                                                className="woocommerce-Price-amount amount"
+                                                ><bdi
+                                                  ><span
+                                                    className="woocommerce-Price-currencySymbol"
+                                                    >$</span
+                                                  >1,200.00</bdi
+                                                ></span
+                                              ></ins
+                                            >
+                                            <del
+                                              ><span
+                                                className="woocommerce-Price-amount amount"
+                                                ><bdi
+                                                  ><span
+                                                    className="woocommerce-Price-currencySymbol"
+                                                    >$</span
+                                                  >1,218.00</bdi
+                                                ></span
+                                              ></del
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2637"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2637"
+                                            data-product_sku="5487FB8/14"
+                                            aria-label="Add to cart: “Ultrabook UX305CA-FC050T”"
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2637 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2637"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2637,"parent_product_id":2637,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2637&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2637"
+                                                data-product-type="simple"
+                                                data-original-product-id="2637"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2637"
+                                            className="add-to-compare-link"
+                                            data-product_id="2637"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div className="owl-item" style={{width": " 232.5px"}}>
+                              <div
+                                className="product type-product post-2639 status-publish instock product_cat-smartphones has-post-thumbnail featured shipping-taxable purchasable product-type-simple"
+                              >
+                                <div className="product-outer product-item__outer">
+                                  <div
+                                    className="product-inner product-item__inner"
+                                  >
+                                    <div
+                                      className="product-loop-header product-item__header"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/smart-phones-tablets/smartphones/"
+                                          rel="tag"
+                                          >Smartphones</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/smartphone-6s-32gb-lte-2/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Smartphone 6S 32GB LTE
+                                        </h2>
+                                        <div
+                                          className="product-thumbnail product-item__thumbnail"
+                                        >
+                                          <img
+                                            loading="lazy"
+                                            width="300"
+                                            height="300"
+                                            src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/lgphone-300x300.png"
+                                            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt=""
+                                          /></div
+                                      ></a>
+                                    </div>
+                                    <div
+                                      className="product-loop-body product-item__body"
+                                    >
+                                      <span className="loop-product-categories"
+                                        ><a
+                                          href="https://electro.madrasthemes.com/product-category/smart-phones-tablets/smartphones/"
+                                          rel="tag"
+                                          >Smartphones</a
+                                        ></span
+                                      ><a
+                                        href="https://electro.madrasthemes.com/product/smartphone-6s-32gb-lte-2/"
+                                        className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
+                                        ><h2
+                                          className="woocommerce-loop-product__title"
+                                        >
+                                          Smartphone 6S 32GB LTE
+                                        </h2>
+                                        <div className="product-rating">
+                                          <div
+                                            className="star-rating"
+                                            role="img"
+                                            aria-label="Rated 4.33 out of 5"
+                                          >
+                                            <span style={{width": " 86.6%"}}
+                                              >Rated
+                                              <strong className="rating"
+                                                >4.33</strong
+                                              >
+                                              out of 5</span
+                                            >
+                                          </div>
+                                          (3)
+                                        </div>
+                                        <div className="product-short-description">
+                                          <div>
+                                            <div>4.5 inch HD Screen</div>
+                                            <div>Android 4.4 KitKat OS</div>
+                                            <div>
+                                              1.4 GHz Quad Core™ Processor
+                                            </div>
+                                            <div>20 MP front Camera</div>
+                                          </div>
+                                        </div>
+                                        <div className="product-sku">
+                                          SKU: 5487FB8/15
+                                        </div></a
+                                      >
+                                    </div>
+                                    <div
+                                      className="product-loop-footer product-item__footer"
+                                    >
+                                      <div className="price-add-to-cart">
+                                        <span className="price"
+                                          ><span className="electro-price"
+                                            ><span
+                                              className="woocommerce-Price-amount amount"
+                                              ><bdi
+                                                ><span
+                                                  className="woocommerce-Price-currencySymbol"
+                                                  >$</span
+                                                >780.00</bdi
+                                              ></span
+                                            ></span
+                                          ></span
+                                        >
+                                        <div
+                                          className="add-to-cart-wrap"
+                                          data-bs-toggle="tooltip"
+                                          data-bs-title="Add to cart"
+                                          data-bs-original-title=""
+                                          title=""
+                                        >
+                                          <a
+                                            href="?add-to-cart=2639"
+                                            data-quantity="1"
+                                            className="button product_type_simple add_to_cart_button ajax_add_to_cart"
+                                            data-product_id="2639"
+                                            data-product_sku="5487FB8/15"
+                                            aria-label="Add to cart: “Smartphone 6S 32GB LTE”"
+                                            aria-describedby=""
+                                            rel="nofollow"
+                                            >Add to cart</a
+                                          >
+                                        </div>
+                                      </div>
+                                      <div className="hover-area">
+                                        <div className="action-buttons">
+                                          <div
+                                            className="yith-wcwl-add-to-wishlist add-to-wishlist-2639 wishlist-fragment on-first-load"
+                                            data-fragment-ref="2639"
+                                            data-fragment-options='{"base_url":"","in_default_wishlist":false,"is_single":false,"show_exists":false,"product_id":2639,"parent_product_id":2639,"product_type":"simple","show_view":false,"browse_wishlist_text":"Browse","already_in_wishslist_text":"The product is already in your wishlist!","product_added_text":"Product added!","heading_icon":"fa-heart-o","available_multi_wishlist":false,"disable_wishlist":false,"show_count":false,"ajax_loading":false,"loop_position":"after_add_to_cart","item":"add_to_wishlist"}'
+                                          >
+                                            <div className="yith-wcwl-add-button">
+                                              <a
+                                                href="?add_to_wishlist=2639&amp;_wpnonce=0a66d26762"
+                                                className="add_to_wishlist single_add_to_wishlist"
+                                                data-product-id="2639"
+                                                data-product-type="simple"
+                                                data-original-product-id="2639"
+                                                data-title="Wishlist"
+                                                rel="nofollow"
+                                              >
+                                                <i
+                                                  className="yith-wcwl-icon fa fa-heart-o"
+                                                ></i>
+                                                <span>Wishlist</span>
+                                              </a>
+                                            </div>
+                                          </div>
+                                          <a
+                                            href="https://electro.madrasthemes.com?action=yith-woocompare-add-product&amp;id=2639"
+                                            className="add-to-compare-link"
+                                            data-product_id="2639"
+                                            >Compare</a
+                                          >
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div className="owl-nav disabled">
+                          <button
+                            type="button"
+                            role="presentation"
+                            className="owl-prev"
+                          ></button
+                          ><button
+                            type="button"
+                            role="presentation"
+                            className="owl-next"
+                          ></button>
+                        </div>
+                        <div className="owl-dots">
+                          <button role="button" className="owl-dot active">
+                            <span></span></button
+                          ><button role="button" className="owl-dot">
+                            <span></span></button
+                          ><button role="button" className="owl-dot">
+                            <span></span></button
+                          ><button role="button" className="owl-dot">
+                            <span></span></button
+                          ><button role="button" className="owl-dot">
+                            <span></span>
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <div className="home-v3-da-block home-two-banners">
+                  <div className="banners columns-2">
+                    <a
+                      className="banner"
+                      href="https://electro.madrasthemes.com/shop"
+                    >
+                      <img
+                        src="https://electro.madrasthemes.com/wp-content/uploads/2018/10/two-banner-1.jpg"
+                        alt=""
+                      />
+                    </a>
+                    <a
+                      className="banner"
+                      href="https://electro.madrasthemes.com/shop"
+                    >
+                      <img
+                        src="https://electro.madrasthemes.com/wp-content/uploads/2018/10/two-banner-2.jpg"
+                        alt=""
+                      />
+                    </a>
+                  </div>
+                </div>
+              </main>
+            </div>
+          </div>
+        </div>
+      </div>
+      <section className="brands-carousel">
+        <h2 className="sr-only">Brands Carousel</h2>
+        <div className="container">
+          <div
+            id="owl-brands"
+            className="owl-brands owl-carousel electro-owl-carousel owl-outer-nav owl-loaded owl-drag"
+            data-ride="owl-carousel"
+            data-carousel-selector="self"
+            data-carousel-options='{"items":5,"navRewind":true,"autoplayHoverPause":true,"nav":true,"stagePadding":1,"dots":false,"rtl":false,"navText":["<i className=\"fa fa-chevron-left\"><\/i>","<i className=\"fa fa-chevron-right\"><\/i>"],"touchDrag":false,"responsive":{"0":{"items":1},"480":{"items":2},"768":{"items":2},"992":{"items":3},"1200":{"items":5}}}'
+          >
+            <div className="owl-stage-outer">
+              <div
+                className="owl-stage"
+                style={{
+                  transform": " translate3d(0px, 0px, 0px)", "
+                  transition": " all 0s ease 0s", "
+                  width": " 3714px", "
+                  padding-left": " 1px", "
+                  padding-right": " 1px", "
+                "}}
+              >
+                <div className="owl-item active" style={{width": " 309.333px"}}>
+                  <div className="item">
+                    <a href="https://electro.madrasthemes.com/brands/acer/">
+                      <figure>
+                        <figcaption className="text-overlay">
+                          <div className="info">
+                            <h4>Acer</h4>
+                          </div>
+                        </figcaption>
+                        <img
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2021/03/themeforest1.png"
+                          alt="Acer"
+                          width="200"
+                          height="60"
+                          className="img-responsive desaturate"
+                        />
+                      </figure>
+                    </a>
+                  </div>
+                </div>
+                <div className="owl-item active" style={{width": " 309.333px"}}>
+                  <div className="item">
+                    <a href="https://electro.madrasthemes.com/brands/apple/">
+                      <figure>
+                        <figcaption className="text-overlay">
+                          <div className="info">
+                            <h4>Apple</h4>
+                          </div>
+                        </figcaption>
+                        <img
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2021/03/themeforest2.png"
+                          alt="Apple"
+                          width="200"
+                          height="60"
+                          className="img-responsive desaturate"
+                        />
+                      </figure>
+                    </a>
+                  </div>
+                </div>
+                <div className="owl-item active" style={{width": " 309.333px"}}>
+                  <div className="item">
+                    <a href="https://electro.madrasthemes.com/brands/asus/">
+                      <figure>
+                        <figcaption className="text-overlay">
+                          <div className="info">
+                            <h4>Asus</h4>
+                          </div>
+                        </figcaption>
+                        <img
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2021/03/themeforest3.png"
+                          alt="Asus"
+                          width="200"
+                          height="60"
+                          className="img-responsive desaturate"
+                        />
+                      </figure>
+                    </a>
+                  </div>
+                </div>
+                <div className="owl-item" style={{width": " 309.333px"}}>
+                  <div className="item">
+                    <a href="https://electro.madrasthemes.com/brands/dell/">
+                      <figure>
+                        <figcaption className="text-overlay">
+                          <div className="info">
+                            <h4>Dell</h4>
+                          </div>
+                        </figcaption>
+                        <img
+                          loading="lazy"
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2021/03/themeforest4.png"
+                          alt="Dell"
+                          width="200"
+                          height="60"
+                          className="img-responsive desaturate"
+                        />
+                      </figure>
+                    </a>
+                  </div>
+                </div>
+                <div className="owl-item" style={{width": " 309.333px"}}>
+                  <div className="item">
+                    <a href="https://electro.madrasthemes.com/brands/gionee/">
+                      <figure>
+                        <figcaption className="text-overlay">
+                          <div className="info">
+                            <h4>Gionee</h4>
+                          </div>
+                        </figcaption>
+                        <img
+                          loading="lazy"
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2021/03/themeforest5.png"
+                          alt="Gionee"
+                          width="200"
+                          height="60"
+                          className="img-responsive desaturate"
+                        />
+                      </figure>
+                    </a>
+                  </div>
+                </div>
+                <div className="owl-item" style={{width": " 309.333px"}}>
+                  <div className="item">
+                    <a href="https://electro.madrasthemes.com/brands/hp/">
+                      <figure>
+                        <figcaption className="text-overlay">
+                          <div className="info">
+                            <h4>HP</h4>
+                          </div>
+                        </figcaption>
+                        <img
+                          loading="lazy"
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2021/03/themeforest6.png"
+                          alt="HP"
+                          width="200"
+                          height="60"
+                          className="img-responsive desaturate"
+                        />
+                      </figure>
+                    </a>
+                  </div>
+                </div>
+                <div className="owl-item" style={{width": " 309.333px"}}>
+                  <div className="item">
+                    <a href="https://electro.madrasthemes.com/brands/htc/">
+                      <figure>
+                        <figcaption className="text-overlay">
+                          <div className="info">
+                            <h4>HTC</h4>
+                          </div>
+                        </figcaption>
+                        <img
+                          loading="lazy"
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2021/03/themeforest1.png"
+                          alt="HTC"
+                          width="200"
+                          height="60"
+                          className="img-responsive desaturate"
+                        />
+                      </figure>
+                    </a>
+                  </div>
+                </div>
+                <div className="owl-item" style={{width": " 309.333px"}}>
+                  <div className="item">
+                    <a href="https://electro.madrasthemes.com/brands/ibm/">
+                      <figure>
+                        <figcaption className="text-overlay">
+                          <div className="info">
+                            <h4>IBM</h4>
+                          </div>
+                        </figcaption>
+                        <img
+                          loading="lazy"
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2021/03/themeforest2.png"
+                          alt="IBM"
+                          width="200"
+                          height="60"
+                          className="img-responsive desaturate"
+                        />
+                      </figure>
+                    </a>
+                  </div>
+                </div>
+                <div className="owl-item" style={{width": " 309.333px"}}>
+                  <div className="item">
+                    <a href="https://electro.madrasthemes.com/brands/lenova/">
+                      <figure>
+                        <figcaption className="text-overlay">
+                          <div className="info">
+                            <h4>Lenova</h4>
+                          </div>
+                        </figcaption>
+                        <img
+                          loading="lazy"
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2021/03/themeforest3.png"
+                          alt="Lenova"
+                          width="200"
+                          height="60"
+                          className="img-responsive desaturate"
+                        />
+                      </figure>
+                    </a>
+                  </div>
+                </div>
+                <div className="owl-item" style={{width": " 309.333px"}}>
+                  <div className="item">
+                    <a href="https://electro.madrasthemes.com/brands/lg/">
+                      <figure>
+                        <figcaption className="text-overlay">
+                          <div className="info">
+                            <h4>LG</h4>
+                          </div>
+                        </figcaption>
+                        <img
+                          loading="lazy"
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2021/03/themeforest4.png"
+                          alt="LG"
+                          width="200"
+                          height="60"
+                          className="img-responsive desaturate"
+                        />
+                      </figure>
+                    </a>
+                  </div>
+                </div>
+                <div className="owl-item" style={{width": " 309.333px"}}>
+                  <div className="item">
+                    <a href="https://electro.madrasthemes.com/brands/micromax/">
+                      <figure>
+                        <figcaption className="text-overlay">
+                          <div className="info">
+                            <h4>Micromax</h4>
+                          </div>
+                        </figcaption>
+                        <img
+                          loading="lazy"
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2021/03/themeforest5.png"
+                          alt="Micromax"
+                          width="200"
+                          height="60"
+                          className="img-responsive desaturate"
+                        />
+                      </figure>
+                    </a>
+                  </div>
+                </div>
+                <div className="owl-item" style={{width": " 309.333px"}}>
+                  <div className="item">
+                    <a
+                      href="https://electro.madrasthemes.com/brands/microsoft/"
+                    >
+                      <figure>
+                        <figcaption className="text-overlay">
+                          <div className="info">
+                            <h4>Microsoft</h4>
+                          </div>
+                        </figcaption>
+                        <img
+                          loading="lazy"
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2021/03/themeforest1.png"
+                          alt="Microsoft"
+                          width="200"
+                          height="60"
+                          className="img-responsive desaturate"
+                        />
+                      </figure>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="owl-nav">
+              <button
+                type="button"
+                role="presentation"
+                className="owl-prev disabled"
+              >
+                <i className="fa fa-chevron-left"></i></button
+              ><button type="button" role="presentation" className="owl-next">
+                <i className="fa fa-chevron-right"></i>
+              </button>
+            </div>
+            <div className="owl-dots disabled"></div>
+          </div>
+        </div>
+      </section>
+      <footer id="colophon" className="site-footer footer-v2">
+        <div className="desktop-footer d-none d-lg-block container">
+          <div className="footer-widgets row row-cols-lg-2 row-cols-xl-4">
+            <div className="widget-column col mb-lg-5 mb-xl-0">
+              <aside
+                id="woocommerce_products-3"
+                className="widget clearfix woocommerce widget_products"
+              >
+                <div className="body">
+                  <h4 className="widget-title">Featured Products</h4>
+                  <ul className="product_list_widget">
+                    <li>
+                      <a
+                        href="https://electro.madrasthemes.com/product/tablet-thin-elitebook-revolve-810-g6/"
+                      >
+                        <img
+                          loading="lazy"
+                          width="300"
+                          height="300"
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/redPhone-300x300.png"
+                          className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                          alt=""
+                          decoding="async"
+                          srcset="
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/redPhone-300x300.png 300w,
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/redPhone-150x150.png 150w,
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/redPhone-100x100.png 100w
+                          "
+                          sizes="(max-width: 300px) 100vw, 300px"
+                        />
+                        <span className="product-title"
+                          >Tablet Thin EliteBook Revolve 810 G6</span
+                        >
+                      </a>
+                      <div
+                        className="star-rating"
+                        role="img"
+                        aria-label="Rated 4.33 out of 5"
+                      >
+                        <span style={{width": " 86.6%"}}
+                          >Rated <strong className="rating">4.33</strong> out of
+                          5</span
+                        >
+                      </div>
+                      <span className="electro-price"
+                        ><span className="woocommerce-Price-amount amount"
+                          ><bdi
+                            ><span className="woocommerce-Price-currencySymbol"
+                              >$</span
+                            >1,300.00</bdi
+                          ></span
+                        ></span
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="https://electro.madrasthemes.com/product/notebook-widescreen-z51-70-40k6013upb/"
+                      >
+                        <img
+                          loading="lazy"
+                          width="300"
+                          height="300"
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/sam2-300x300.png"
+                          className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                          alt=""
+                          decoding="async"
+                          srcset="
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/sam2-300x300.png 300w,
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/sam2-150x150.png 150w,
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/sam2-100x100.png 100w
+                          "
+                          sizes="(max-width: 300px) 100vw, 300px"
+                        />
+                        <span className="product-title"
+                          >Notebook Widescreen Z51-70 40K6013UPB</span
+                        >
+                      </a>
+                      <div
+                        className="star-rating"
+                        role="img"
+                        aria-label="Rated 4.33 out of 5"
+                      >
+                        <span style={{width": " 86.6%"}}
+                          >Rated <strong className="rating">4.33</strong> out of
+                          5</span
+                        >
+                      </div>
+                      <span className="electro-price"
+                        ><span className="woocommerce-Price-amount amount"
+                          ><bdi
+                            ><span className="woocommerce-Price-currencySymbol"
+                              >$</span
+                            >1,100.00</bdi
+                          ></span
+                        ></span
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="https://electro.madrasthemes.com/product/smartphone-6s-128gb-lte/"
+                      >
+                        <img
+                          loading="lazy"
+                          width="300"
+                          height="300"
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/lgphone-300x300.png"
+                          className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                          alt=""
+                          decoding="async"
+                          srcset="
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/lgphone-300x300.png 300w,
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/lgphone-150x150.png 150w,
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/lgphone-100x100.png 100w
+                          "
+                          sizes="(max-width: 300px) 100vw, 300px"
+                        />
+                        <span className="product-title"
+                          >Smartphone 6S 128GB LTE</span
+                        >
+                      </a>
+                      <span className="electro-price"
+                        ><ins
+                          ><span className="woocommerce-Price-amount amount"
+                            ><bdi
+                              ><span className="woocommerce-Price-currencySymbol"
+                                >$</span
+                              >750.00</bdi
+                            ></span
+                          ></ins
+                        >
+                        <del
+                          ><span className="woocommerce-Price-amount amount"
+                            ><bdi
+                              ><span className="woocommerce-Price-currencySymbol"
+                                >$</span
+                              >780.00</bdi
+                            ></span
+                          ></del
+                        ></span
+                      >
+                    </li>
+                  </ul>
+                </div>
+              </aside>
+            </div>
+            <div className="widget-column col mb-lg-5 mb-xl-0">
+              <aside
+                id="woocommerce_products-4"
+                className="widget clearfix woocommerce widget_products"
+              >
+                <div className="body">
+                  <h4 className="widget-title">Top Selling Products</h4>
+                  <ul className="product_list_widget">
+                    <li>
+                      <a
+                        href="https://electro.madrasthemes.com/product/game-console-controller-usb-3-0-cable/"
+                      >
+                        <img
+                          loading="lazy"
+                          width="300"
+                          height="300"
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/consal-300x300.png"
+                          className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                          alt=""
+                          decoding="async"
+                          srcset="
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/consal-300x300.png 300w,
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/consal-150x150.png 150w,
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/consal-100x100.png 100w
+                          "
+                          sizes="(max-width: 300px) 100vw, 300px"
+                        />
+                        <span className="product-title"
+                          >Game Console Controller + USB 3.0 Cable</span
+                        >
+                      </a>
+                      <span className="electro-price"
+                        ><span className="woocommerce-Price-amount amount"
+                          ><bdi
+                            ><span className="woocommerce-Price-currencySymbol"
+                              >$</span
+                            >99.00</bdi
+                          ></span
+                        ></span
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="https://electro.madrasthemes.com/product/wireless-audio-system-multiroom-360/"
+                      >
+                        <img
+                          loading="lazy"
+                          width="300"
+                          height="300"
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/WirelessSound-300x300.png"
+                          className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                          alt=""
+                          decoding="async"
+                          srcset="
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/WirelessSound-300x300.png 300w,
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/WirelessSound-150x150.png 150w,
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/WirelessSound-100x100.png 100w
+                          "
+                          sizes="(max-width: 300px) 100vw, 300px"
+                        />
+                        <span className="product-title"
+                          >Wireless Audio System Multiroom 360</span
+                        >
+                      </a>
+                      <span className="electro-price"
+                        ><span className="woocommerce-Price-amount amount"
+                          ><bdi
+                            ><span className="woocommerce-Price-currencySymbol"
+                              >$</span
+                            >2,299.00</bdi
+                          ></span
+                        ></span
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="https://electro.madrasthemes.com/product/tablet-red-elitebook-revolve-810-g2/"
+                      >
+                        <img
+                          loading="lazy"
+                          width="300"
+                          height="300"
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/apptablet-300x300.png"
+                          className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                          alt=""
+                          decoding="async"
+                          srcset="
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/apptablet-300x300.png 300w,
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/apptablet-150x150.png 150w,
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/apptablet-100x100.png 100w
+                          "
+                          sizes="(max-width: 300px) 100vw, 300px"
+                        />
+                        <span className="product-title"
+                          >Tablet Red EliteBook Revolve 810 G2</span
+                        >
+                      </a>
+                      <div
+                        className="star-rating"
+                        role="img"
+                        aria-label="Rated 3.33 out of 5"
+                      >
+                        <span style={{width": " 66.6%"}}
+                          >Rated <strong className="rating">3.33</strong> out of
+                          5</span
+                        >
+                      </div>
+                      <span className="electro-price"
+                        ><ins
+                          ><span className="woocommerce-Price-amount amount"
+                            ><bdi
+                              ><span className="woocommerce-Price-currencySymbol"
+                                >$</span
+                              >2,100.00</bdi
+                            ></span
+                          ></ins
+                        >
+                        <del
+                          ><span className="woocommerce-Price-amount amount"
+                            ><bdi
+                              ><span className="woocommerce-Price-currencySymbol"
+                                >$</span
+                              >2,299.00</bdi
+                            ></span
+                          ></del
+                        ></span
+                      >
+                    </li>
+                  </ul>
+                </div>
+              </aside>
+            </div>
+            <div className="widget-column col mb-lg-5 mb-xl-0">
+              <aside
+                id="woocommerce_products-5"
+                className="widget clearfix woocommerce widget_products"
+              >
+                <div className="body">
+                  <h4 className="widget-title">On-sale Products</h4>
+                  <ul className="product_list_widget">
+                    <li>
+                      <a
+                        href="https://electro.madrasthemes.com/product/tablet-red-elitebook-revolve-810-g2/"
+                      >
+                        <img
+                          loading="lazy"
+                          width="300"
+                          height="300"
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/apptablet-300x300.png"
+                          className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                          alt=""
+                          decoding="async"
+                          srcset="
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/apptablet-300x300.png 300w,
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/apptablet-150x150.png 150w,
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/apptablet-100x100.png 100w
+                          "
+                          sizes="(max-width: 300px) 100vw, 300px"
+                        />
+                        <span className="product-title"
+                          >Tablet Red EliteBook Revolve 810 G2</span
+                        >
+                      </a>
+                      <div
+                        className="star-rating"
+                        role="img"
+                        aria-label="Rated 3.33 out of 5"
+                      >
+                        <span style={{width": " 66.6%"}}
+                          >Rated <strong className="rating">3.33</strong> out of
+                          5</span
+                        >
+                      </div>
+                      <span className="electro-price"
+                        ><ins
+                          ><span className="woocommerce-Price-amount amount"
+                            ><bdi
+                              ><span className="woocommerce-Price-currencySymbol"
+                                >$</span
+                              >2,100.00</bdi
+                            ></span
+                          ></ins
+                        >
+                        <del
+                          ><span className="woocommerce-Price-amount amount"
+                            ><bdi
+                              ><span className="woocommerce-Price-currencySymbol"
+                                >$</span
+                              >2,299.00</bdi
+                            ></span
+                          ></del
+                        ></span
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="https://electro.madrasthemes.com/product/smartphone-6s-32gb-lte/"
+                      >
+                        <img
+                          loading="lazy"
+                          width="300"
+                          height="300"
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/GoldPhone-1-300x300.png"
+                          className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                          alt=""
+                          decoding="async"
+                          srcset="
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/GoldPhone-1-300x300.png 300w,
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/GoldPhone-1-150x150.png 150w,
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/GoldPhone-1-100x100.png 100w
+                          "
+                          sizes="(max-width: 300px) 100vw, 300px"
+                        />
+                        <span className="product-title"
+                          >Smartphone 6S 32GB LTE</span
+                        >
+                      </a>
+                      <span className="electro-price"
+                        ><ins
+                          ><span className="woocommerce-Price-amount amount"
+                            ><bdi
+                              ><span className="woocommerce-Price-currencySymbol"
+                                >$</span
+                              >1,100.00</bdi
+                            ></span
+                          ></ins
+                        >
+                        <del
+                          ><span className="woocommerce-Price-amount amount"
+                            ><bdi
+                              ><span className="woocommerce-Price-currencySymbol"
+                                >$</span
+                              >1,215.00</bdi
+                            ></span
+                          ></del
+                        ></span
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="https://electro.madrasthemes.com/product/apple-macbook-pro-mf841hna-13-inch-laptop/"
+                      >
+                        <img
+                          loading="lazy"
+                          width="300"
+                          height="300"
+                          src="https://electro.madrasthemes.com/wp-content/uploads/2016/03/macpro-300x300.png"
+                          className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                          alt=""
+                          decoding="async"
+                          srcset="
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/macpro-300x300.png 300w,
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/macpro-150x150.png 150w,
+                            https://electro.madrasthemes.com/wp-content/uploads/2016/03/macpro-100x100.png 100w
+                          "
+                          sizes="(max-width: 300px) 100vw, 300px"
+                        />
+                        <span className="product-title"
+                          >Apple MacBook Pro MF841HN/A 13-inch Laptop</span
+                        >
+                      </a>
+                      <div
+                        className="star-rating"
+                        role="img"
+                        aria-label="Rated 5.00 out of 5"
+                      >
+                        <span style={{width": " 100%"}}
+                          >Rated <strong className="rating">5.00</strong> out of
+                          5</span
+                        >
+                      </div>
+                      <span className="electro-price"
+                        ><ins
+                          ><span className="woocommerce-Price-amount amount"
+                            ><bdi
+                              ><span className="woocommerce-Price-currencySymbol"
+                                >$</span
+                              >1,500.00</bdi
+                            ></span
+                          ></ins
+                        >
+                        <del
+                          ><span className="woocommerce-Price-amount amount"
+                            ><bdi
+                              ><span className="woocommerce-Price-currencySymbol"
+                                >$</span
+                              >1,800.00</bdi
+                            ></span
+                          ></del
+                        ></span
+                      >
+                    </li>
+                  </ul>
+                </div>
+              </aside>
+            </div>
+            <div className="widget-column col mb-lg-5 mb-xl-0">
+              <aside
+                id="media_image-3"
+                className="widget clearfix widget_media_image"
+              >
+                <div className="body">
+                  <a href="https://demo2.madrasthemes.com/electro-wide/shop"
+                    ><img
+                      loading="lazy"
+                      width="329"
+                      height="359"
+                      src="https://electro.madrasthemes.com/wp-content/uploads/2019/04/footer-widget-img-01.jpg"
+                      className="image wp-image-5045 attachment-full size-full"
+                      alt=""
+                      style={{max-width": " 100%", " height": " auto"}}
+                      decoding="async"
+                      srcset="
+                        https://electro.madrasthemes.com/wp-content/uploads/2019/04/footer-widget-img-01.jpg         329w,
+                        https://electro.madrasthemes.com/wp-content/uploads/2019/04/footer-widget-img-01-275x300.jpg 275w
+                      "
+                      sizes="(max-width: 329px) 100vw, 329px"
+                  /></a>
+                </div>
+              </aside>
+            </div>
+          </div>
+          <div className="footer-newsletter">
+            <div className="container">
+              <div className="footer-newsletter-inner row">
+                <div className="newsletter-content col-lg-7">
+                  <h5 className="newsletter-title">Sign up to Newsletter</h5>
+                  <span className="newsletter-marketing-text"
+                    >...and receive
+                    <strong>$20 coupon for first shopping</strong></span
+                  >
+                </div>
+                <div className="newsletter-form col-lg-5 align-self-center">
+                  <div
+                    className="wpforms-container wpforms-container-full ec-newsletter-form"
+                    id="wpforms-5461"
+                  >
+                    <form
+                      id="wpforms-form-5461"
+                      className="wpforms-validate wpforms-form"
+                      data-formid="5461"
+                      method="post"
+                      enctype="multipart/form-data"
+                      action="/home-v3-full-color-background/"
+                      data-token="83f0a498002904521f9d295c78b81be5"
+                      novalidate="novalidate"
+                    >
+                      <noscript className="wpforms-error-noscript"
+                        >Please enable JavaScript in your browser to complete
+                        this form.</noscript
+                      >
+                      <div className="wpforms-field-container">
+                        <div
+                          id="wpforms-5461-field_1-container"
+                          className="wpforms-field wpforms-field-email"
+                          data-field-id="1"
+                        >
+                          <label
+                            className="wpforms-field-label wpforms-label-hide"
+                            for="wpforms-5461-field_1"
+                            >Email
+                            <span className="wpforms-required-label">*</span></label
+                          ><input
+                            type="email"
+                            id="wpforms-5461-field_1"
+                            className="wpforms-field-large wpforms-field-required"
+                            name="wpforms[fields][1]"
+                            placeholder="Enter your email address"
+                            spellcheck="false"
+                            required=""
+                          />
+                        </div>
+                      </div>
+                      <div className="wpforms-field wpforms-field-hp">
+                        <label
+                          for="wpforms-5461-field-hp"
+                          className="wpforms-field-label"
+                          >Phone</label
+                        ><input
+                          type="text"
+                          name="wpforms[hp]"
+                          id="wpforms-5461-field-hp"
+                          className="wpforms-field-medium"
+                        />
+                      </div>
+                      <div className="wpforms-submit-container">
+                        <input
+                          type="hidden"
+                          name="wpforms[id]"
+                          value="5461"
+                        /><input
+                          type="hidden"
+                          name="wpforms[author]"
+                          value="1"
+                        /><input
+                          type="hidden"
+                          name="wpforms[post_id]"
+                          value="2915"
+                        /><button
+                          type="submit"
+                          name="wpforms[submit]"
+                          id="wpforms-submit-5461"
+                          className="wpforms-submit"
+                          data-alt-text="Sending..."
+                          data-submit-text="SignUp"
+                          aria-live="assertive"
+                          value="wpforms-submit"
+                        >
+                          SignUp
+                        </button>
+                      </div>
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="footer-bottom-widgets">
+            <div className="container">
+              <div className="footer-bottom-widgets-inner row">
+                <div className="footer-contact col-md-5">
+                  <div className="footer-logo">
+                    <svg
+                      version="1.1"
+                      x="0px"
+                      y="0px"
+                      width="156px"
+                      height="37px"
+                      viewBox="0 0 175.748 42.52"
+                      enable-background="new 0 0 175.748 42.52"
+                    >
+                      <ellipse
+                        fill-rule="evenodd"
+                        clip-rule="evenodd"
+                        fill="#FDD700"
+                        cx="170.05"
+                        cy="36.341"
+                        rx="5.32"
+                        ry="5.367"
+                      ></ellipse>
+                      <path
+                        fill-rule="evenodd"
+                        clip-rule="evenodd"
+                        fill="#333E48"
+                        d="M30.514,0.71c-0.034,0.003-0.066,0.008-0.056,0.056
+                            C30.263,0.995,29.876,1.181,29.79,1.5c-0.148,0.548,0,1.568,0,2.427v36.459c0.265,0.221,0.506,0.465,0.725,0.734h6.187
+                            c0.2-0.25,0.423-0.477,0.669-0.678V1.387C37.124,1.185,36.9,0.959,36.701,0.71H30.514z M117.517,12.731
+                            c-0.232-0.189-0.439-0.64-0.781-0.734c-0.754-0.209-2.039,0-3.121,0h-3.176V4.435c-0.232-0.189-0.439-0.639-0.781-0.733
+                            c-0.719-0.2-1.969,0-3.01,0h-3.01c-0.238,0.273-0.625,0.431-0.725,0.847c-0.203,0.852,0,2.399,0,3.725
+                            c0,1.393,0.045,2.748-0.055,3.725h-6.41c-0.184,0.237-0.629,0.434-0.725,0.791c-0.178,0.654,0,1.813,0,2.765v2.766
+                            c0.232,0.188,0.439,0.64,0.779,0.733c0.777,0.216,2.109,0,3.234,0c1.154,0,2.291-0.045,3.176,0.057v21.277
+                            c0.232,0.189,0.439,0.639,0.781,0.734c0.719,0.199,1.969,0,3.01,0h3.01c1.008-0.451,0.725-1.889,0.725-3.443
+                            c-0.002-6.164-0.047-12.867,0.055-18.625h6.299c0.182-0.236,0.627-0.434,0.725-0.79c0.176-0.653,0-1.813,0-2.765V12.731z
+                             M135.851,18.262c0.201-0.746,0-2.029,0-3.104v-3.104c-0.287-0.245-0.434-0.637-0.781-0.733c-0.824-0.229-1.992-0.044-2.898,0
+                            c-2.158,0.104-4.506,0.675-5.74,1.411c-0.146-0.362-0.451-0.853-0.893-0.96c-0.693-0.169-1.859,0-2.842,0h-2.842
+                            c-0.258,0.319-0.625,0.42-0.725,0.79c-0.223,0.82,0,2.338,0,3.443c0,8.109-0.002,16.635,0,24.381
+                            c0.232,0.189,0.439,0.639,0.779,0.734c0.707,0.195,1.93,0,2.955,0h3.01c0.918-0.463,0.725-1.352,0.725-2.822V36.21
+                            c-0.002-3.902-0.242-9.117,0-12.473c0.297-4.142,3.836-4.877,8.527-4.686C135.312,18.816,135.757,18.606,135.851,18.262z
+                             M14.796,11.376c-5.472,0.262-9.443,3.178-11.76,7.056c-2.435,4.075-2.789,10.62-0.501,15.126c2.043,4.023,5.91,7.115,10.701,7.9
+                            c6.051,0.992,10.992-1.219,14.324-3.838c-0.687-1.1-1.419-2.664-2.118-3.951c-0.398-0.734-0.652-1.486-1.616-1.467
+                            c-1.942,0.787-4.272,2.262-7.134,2.145c-3.791-0.154-6.659-1.842-7.524-4.91h19.452c0.146-2.793,0.22-5.338-0.279-7.563
+                            C26.961,15.728,22.503,11.008,14.796,11.376z M9,23.284c0.921-2.508,3.033-4.514,6.298-4.627c3.083-0.107,4.994,1.976,5.685,4.627
+                            C17.119,23.38,12.865,23.38,9,23.284z M52.418,11.376c-5.551,0.266-9.395,3.142-11.76,7.056
+                            c-2.476,4.097-2.829,10.493-0.557,15.069c1.997,4.021,5.895,7.156,10.646,7.957c6.068,1.023,11-1.227,14.379-3.781
+                            c-0.479-0.896-0.875-1.742-1.393-2.709c-0.312-0.582-1.024-2.234-1.561-2.539c-0.912-0.52-1.428,0.135-2.23,0.508
+                            c-0.564,0.262-1.223,0.523-1.672,0.676c-4.768,1.621-10.372,0.268-11.537-4.176h19.451c0.668-5.443-0.419-9.953-2.73-13.037
+                            C61.197,13.388,57.774,11.12,52.418,11.376z M46.622,23.343c0.708-2.553,3.161-4.578,6.242-4.686
+                            c3.08-0.107,5.08,1.953,5.686,4.686H46.622z M160.371,15.497c-2.455-2.453-6.143-4.291-10.869-4.064
+                            c-2.268,0.109-4.297,0.65-6.02,1.524c-1.719,0.873-3.092,1.957-4.234,3.217c-2.287,2.519-4.164,6.004-3.902,11.007
+                            c0.248,4.736,1.979,7.813,4.627,10.326c2.568,2.439,6.148,4.254,10.867,4.064c4.457-0.18,7.889-2.115,10.199-4.684
+                            c2.469-2.746,4.012-5.971,3.959-11.063C164.949,21.134,162.732,17.854,160.371,15.497z M149.558,33.952
+                            c-3.246-0.221-5.701-2.615-6.41-5.418c-0.174-0.689-0.26-1.25-0.4-2.166c-0.035-0.234,0.072-0.523-0.045-0.77
+                            c0.682-3.698,2.912-6.257,6.799-6.547c2.543-0.189,4.258,0.735,5.52,1.863c1.322,1.182,2.303,2.715,2.451,4.967
+                            C157.789,30.669,154.185,34.267,149.558,33.952z M88.812,29.55c-1.232,2.363-2.9,4.307-6.13,4.402
+                            c-4.729,0.141-8.038-3.16-8.025-7.563c0.004-1.412,0.324-2.65,0.947-3.726c1.197-2.061,3.507-3.688,6.633-3.612
+                            c3.222,0.079,4.966,1.708,6.632,3.668c1.328-1.059,2.529-1.948,3.9-2.99c0.416-0.315,1.076-0.688,1.227-1.072
+                            c0.404-1.031-0.365-1.502-0.891-2.088c-2.543-2.835-6.66-5.377-11.704-5.137c-6.02,0.288-10.218,3.697-12.484,7.846
+                            c-1.293,2.365-1.951,5.158-1.729,8.408c0.209,3.053,1.191,5.496,2.619,7.508c2.842,4.004,7.385,6.973,13.656,6.377
+                            c5.976-0.568,9.574-3.936,11.816-8.354c-0.141-0.271-0.221-0.604-0.336-0.902C92.929,31.364,90.843,30.485,88.812,29.55z"
+                      ></path>
+                    </svg>
+                  </div>
+                  <div className="footer-call-us">
+                    <div className="media d-flex">
+                      <span className="media-left call-us-icon media-middle"
+                        ><i className="ec ec-support"></i
+                      ></span>
+                      <div className="media-body">
+                        <span className="call-us-text"
+                          >Got Questions ? Call us 24/7!</span
+                        >
+                        <span className="call-us-number"
+                          >(800) 8001-8588, (0600) 874 548</span
+                        >
+                      </div>
+                    </div>
+                  </div>
+                  <div className="footer-address">
+                    <strong className="footer-address-title">Contact Info</strong>
+                    <address>
+                      17 Princess Road, London, Greater London NW1 8JR, UK
+                    </address>
+                  </div>
+                  <div className="footer-social-icons">
+                    <ul
+                      className="social-icons list-unstyled nav align-items-center"
+                    >
+                      <li>
+                        <a
+                          className="fab fa-facebook"
+                          target="_blank"
+                          href="http://themeforest.net/user/madrasthemes/portfolio"
+                        ></a>
+                      </li>
+                      <li>
+                        <a
+                          className="fab fa-whatsapp mobile"
+                          target="_blank"
+                          href="whatsapp://send?phone=919876543210"
+                        ></a>
+                      </li>
+                      <li>
+                        <a
+                          className="fab fa-whatsapp desktop"
+                          target="_blank"
+                          href="https://web.whatsapp.com/send?phone=919876543210"
+                        ></a>
+                      </li>
+                      <li>
+                        <a
+                          className="fab fa-pinterest"
+                          target="_blank"
+                          href="http://themeforest.net/user/madrasthemes/portfolio"
+                        ></a>
+                      </li>
+                      <li>
+                        <a
+                          className="fab fa-linkedin"
+                          target="_blank"
+                          href="http://themeforest.net/user/madrasthemes/portfolio"
+                        ></a>
+                      </li>
+                      <li>
+                        <a
+                          className="fab fa-instagram"
+                          target="_blank"
+                          href="http://themeforest.net/user/madrasthemes/portfolio"
+                        ></a>
+                      </li>
+                      <li>
+                        <a
+                          className="fab fa-youtube"
+                          target="_blank"
+                          href="http://themeforest.net/user/madrasthemes/portfolio"
+                        ></a>
+                      </li>
+                      <li>
+                        <a
+                          className="fas fa-rss"
+                          target="_blank"
+                          href="https://electro.madrasthemes.com/feed/"
+                        ></a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div className="footer-bottom-widgets-menu col-md">
+                  <div
+                    className="footer-bottom-widgets-menu-inner row g-0 row-cols-xl-3"
+                  >
+                    <div className="columns col">
+                      <aside
+                        id="nav_menu-1"
+                        className="widget clearfix widget_nav_menu"
+                      >
+                        <div className="body">
+                          <h4 className="widget-title">Find It Fast</h4>
+                          <div className="menu-footer-menu-1-container">
+                            <ul id="menu-footer-menu-1" className="menu">
+                              <li
+                                id="menu-item-5281"
+                                className="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5281"
+                              >
+                                <a
+                                  href="https://electro.madrasthemes.com/product-category/laptops-computers/"
+                                  >Laptops &amp; Computers</a
+                                >
+                              </li>
+                              <li
+                                id="menu-item-5282"
+                                className="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5282"
+                              >
+                                <a
+                                  href="https://electro.madrasthemes.com/product-category/cameras-photography/"
+                                  >Cameras &amp; Photography</a
+                                >
+                              </li>
+                              <li
+                                id="menu-item-5283"
+                                className="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5283"
+                              >
+                                <a
+                                  href="https://electro.madrasthemes.com/product-category/smart-phones-tablets/"
+                                  >Smart Phones &amp; Tablets</a
+                                >
+                              </li>
+                              <li
+                                id="menu-item-5284"
+                                className="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5284"
+                              >
+                                <a
+                                  href="https://electro.madrasthemes.com/product-category/video-games-consoles/"
+                                  >Video Games &amp; Consoles</a
+                                >
+                              </li>
+                              <li
+                                id="menu-item-5285"
+                                className="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5285"
+                              >
+                                <a
+                                  href="https://electro.madrasthemes.com/product-category/tv-audio/"
+                                  >TV &amp; Audio</a
+                                >
+                              </li>
+                              <li
+                                id="menu-item-5286"
+                                className="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5286"
+                              >
+                                <a
+                                  href="https://electro.madrasthemes.com/product-category/gadgets/"
+                                  >Gadgets</a
+                                >
+                              </li>
+                              <li
+                                id="menu-item-5287"
+                                className="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5287"
+                              >
+                                <a
+                                  href="https://electro.madrasthemes.com/product-category/accessories/headphones/waterproof-headphones/"
+                                  >Waterproof Headphones</a
+                                >
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </aside>
+                    </div>
+                    <div className="columns col">
+                      <aside
+                        id="nav_menu-2"
+                        className="widget clearfix widget_nav_menu"
+                      >
+                        <div className="body">
+                          <h4 className="widget-title">&nbsp;</h4>
+                          <div className="menu-footer-menu-2-container">
+                            <ul id="menu-footer-menu-2" className="menu">
+                              <li
+                                id="menu-item-5399"
+                                className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5399"
+                              >
+                                <a
+                                  href="https://electro.madrasthemes.com/about/"
+                                  >About</a
+                                >
+                              </li>
+                              <li
+                                id="menu-item-5397"
+                                className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5397"
+                              >
+                                <a
+                                  href="https://electro.madrasthemes.com/contact-v1/"
+                                  >Contact</a
+                                >
+                              </li>
+                              <li
+                                id="menu-item-5414"
+                                className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5414"
+                              >
+                                <a
+                                  href="https://electro.madrasthemes.com/wishlist/"
+                                  >Wishlist</a
+                                >
+                              </li>
+                              <li
+                                id="menu-item-5415"
+                                className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5415"
+                              >
+                                <a
+                                  href="https://electro.madrasthemes.com/compare/"
+                                  >Compare</a
+                                >
+                              </li>
+                              <li
+                                id="menu-item-5398"
+                                className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5398"
+                              >
+                                <a href="https://electro.madrasthemes.com/faq/"
+                                  >FAQ</a
+                                >
+                              </li>
+                              <li
+                                id="menu-item-5416"
+                                className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5416"
+                              >
+                                <a
+                                  href="https://electro.madrasthemes.com/store-directory/"
+                                  >Store Directory</a
+                                >
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </aside>
+                    </div>
+                    <div className="columns col">
+                      <aside
+                        id="nav_menu-3"
+                        className="widget clearfix widget_nav_menu"
+                      >
+                        <div className="body">
+                          <h4 className="widget-title">Customer Care</h4>
+                          <div className="menu-footer-menu-3-container">
+                            <ul id="menu-footer-menu-3" className="menu">
+                              <li
+                                id="menu-item-5303"
+                                className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5303"
+                              >
+                                <a
+                                  href="https://electro.madrasthemes.com/my-account/"
+                                  >My Account</a
+                                >
+                              </li>
+                              <li
+                                id="menu-item-5304"
+                                className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5304"
+                              >
+                                <a
+                                  href="https://electro.madrasthemes.com/track-your-order/"
+                                  >Track your Order</a
+                                >
+                              </li>
+                              <li
+                                id="menu-item-5305"
+                                className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5305"
+                              >
+                                <a
+                                  href="https://electro.madrasthemes.com/contact-v1/"
+                                  >Customer Service</a
+                                >
+                              </li>
+                              <li
+                                id="menu-item-5306"
+                                className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5306"
+                              >
+                                <a
+                                  href="https://electro.madrasthemes.com/contact-v2/"
+                                  >Returns/Exchange</a
+                                >
+                              </li>
+                              <li
+                                id="menu-item-5307"
+                                className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5307"
+                              >
+                                <a href="https://electro.madrasthemes.com/faq/"
+                                  >FAQs</a
+                                >
+                              </li>
+                              <li
+                                id="menu-item-5308"
+                                className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5308"
+                              >
+                                <a
+                                  href="https://electro.madrasthemes.com/terms-and-conditions/"
+                                  >Product Support</a
+                                >
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </aside>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="copyright-bar">
+            <div className="container">
+              <div className="float-start copyright">
+                ©
+                <a href="https://demo2.madrasthemes.com/electro/">Electro</a> -
+                All Rights Reserved
+              </div>
+              <div className="float-end payment">
+                <div className="footer-payment-logo">
+                  <ul className="nav cash-card card-inline">
+                    <li className="card-item">
+                      <img
+                        loading="lazy"
+                        className="h-auto"
+                        src="https://electro.madrasthemes.com/wp-content/uploads/2021/03/patment-icon1.png"
+                        alt=""
+                        width="324"
+                        height="38"
+                      />
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="handheld-footer d-lg-none pt-3 v1">
+          <div className="handheld-widget-menu container">
+            <div className="columns">
+              <aside id="nav_menu-4" className="widget widget_nav_menu">
+                <div className="body">
+                  <h4 className="widget-title">We Recommend</h4>
+                  <div className="menu-mobile-footer-menu-1-container collapse">
+                    <ul id="menu-mobile-footer-menu-1" className="menu">
+                      <li
+                        id="menu-item-5400"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5400"
+                      >
+                        <a href="https://electro.madrasthemes.com/">Home v1</a>
+                      </li>
+                      <li
+                        id="menu-item-5401"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5401"
+                      >
+                        <a href="https://electro.madrasthemes.com/home-v2/"
+                          >Home v2</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-5402"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5402"
+                      >
+                        <a href="https://electro.madrasthemes.com/home-v3/"
+                          >Home v3</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-5403"
+                        className="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2915 current_page_item menu-item-5403"
+                      >
+                        <a
+                          href="https://electro.madrasthemes.com/home-v3-full-color-background/"
+                          aria-current="page"
+                          >Home v3.1</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-5404"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5404"
+                      >
+                        <a href="https://electro.madrasthemes.com/home-v4/"
+                          >Home v4</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-5405"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5405"
+                      >
+                        <a href="https://electro.madrasthemes.com/home-v5/"
+                          >Home v5</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-5433"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5433"
+                      >
+                        <a href="https://electro.madrasthemes.com/home-v6/"
+                          >Home v6</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-5432"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5432"
+                      >
+                        <a href="https://electro.madrasthemes.com/home-v7/"
+                          >Home v7</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-6021"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-6021"
+                      >
+                        <a href="https://electro.madrasthemes.com/home-v8/"
+                          >Home v8</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-6022"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-6022"
+                      >
+                        <a href="https://electro.madrasthemes.com/home-v9/"
+                          >Home v9</a
+                        >
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </aside>
+            </div>
+            <div className="columns">
+              <aside id="nav_menu-5" className="widget widget_nav_menu">
+                <div className="body">
+                  <h4 className="widget-title">My Account</h4>
+                  <div className="menu-mobile-footer-menu-2-container collapse">
+                    <ul id="menu-mobile-footer-menu-2" className="menu">
+                      <li
+                        id="menu-item-5406"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5406"
+                      >
+                        <a href="https://electro.madrasthemes.com/about/"
+                          >About</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-5407"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5407"
+                      >
+                        <a href="https://electro.madrasthemes.com/contact-v1/"
+                          >Contact v1</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-5408"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5408"
+                      >
+                        <a href="https://electro.madrasthemes.com/contact-v2/"
+                          >Contact v2</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-5409"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5409"
+                      >
+                        <a href="https://electro.madrasthemes.com/faq/">FAQ</a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </aside>
+            </div>
+            <div className="columns">
+              <aside id="nav_menu-6" className="widget widget_nav_menu">
+                <div className="body">
+                  <h4 className="widget-title">Customer Care</h4>
+                  <div className="menu-mobile-footer-menu-3-container collapse">
+                    <ul id="menu-mobile-footer-menu-3" className="menu">
+                      <li
+                        id="menu-item-5393"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5393"
+                      >
+                        <a href="https://electro.madrasthemes.com/my-account/"
+                          >My Account</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-5394"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5394"
+                      >
+                        <a
+                          href="https://electro.madrasthemes.com/track-your-order/"
+                          >Track your Order</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-5391"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5391"
+                      >
+                        <a href="https://electro.madrasthemes.com/contact-v1/"
+                          >Customer Service</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-5392"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5392"
+                      >
+                        <a href="https://electro.madrasthemes.com/contact-v2/"
+                          >Returns/Exchange</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-5395"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5395"
+                      >
+                        <a href="https://electro.madrasthemes.com/faq/">FAQs</a>
+                      </li>
+                      <li
+                        id="menu-item-5396"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5396"
+                      >
+                        <a
+                          href="https://electro.madrasthemes.com/terms-and-conditions/"
+                          >Product Support</a
+                        >
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </aside>
+            </div>
+            <div className="columns">
+              <aside id="nav_menu-7" className="widget widget_nav_menu">
+                <div className="body">
+                  <h4 className="widget-title">About Us</h4>
+                  <div className="menu-mobile-footer-menu-4-container collapse">
+                    <ul id="menu-mobile-footer-menu-4" className="menu">
+                      <li
+                        id="menu-item-5410"
+                        className="menu-item menu-item-type-post_type menu-item-object-post menu-item-5410"
+                      >
+                        <a
+                          href="https://electro.madrasthemes.com/robot-wars-now-closed-post-with-gallery/"
+                          >Blog Single</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-5413"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5413"
+                      >
+                        <a
+                          href="https://electro.madrasthemes.com/store-directory/"
+                          >Store Directory</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-5411"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5411"
+                      >
+                        <a href="https://electro.madrasthemes.com/wishlist/"
+                          >Wishlist</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-5412"
+                        className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5412"
+                      >
+                        <a href="https://electro.madrasthemes.com/compare/"
+                          >Compare</a
+                        >
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </aside>
+            </div>
+          </div>
+          <div className="footer-social-icons container text-center mb-0">
+            <ul
+              className="social-icons-color nav align-items-center row list-unstyled justify-content-center mb-0"
+            >
+              <li>
+                <a
+                  className="fab fa-facebook"
+                  target="_blank"
+                  href="http://themeforest.net/user/madrasthemes/portfolio"
+                ></a>
+              </li>
+              <li>
+                <a
+                  className="fab fa-whatsapp mobile"
+                  target="_blank"
+                  href="whatsapp://send?phone=919876543210"
+                ></a>
+              </li>
+              <li>
+                <a
+                  className="fab fa-whatsapp desktop"
+                  target="_blank"
+                  href="https://web.whatsapp.com/send?phone=919876543210"
+                ></a>
+              </li>
+              <li>
+                <a
+                  className="fab fa-pinterest"
+                  target="_blank"
+                  href="http://themeforest.net/user/madrasthemes/portfolio"
+                ></a>
+              </li>
+              <li>
+                <a
+                  className="fab fa-linkedin"
+                  target="_blank"
+                  href="http://themeforest.net/user/madrasthemes/portfolio"
+                ></a>
+              </li>
+              <li>
+                <a
+                  className="fab fa-instagram"
+                  target="_blank"
+                  href="http://themeforest.net/user/madrasthemes/portfolio"
+                ></a>
+              </li>
+              <li>
+                <a
+                  className="fab fa-youtube"
+                  target="_blank"
+                  href="http://themeforest.net/user/madrasthemes/portfolio"
+                ></a>
+              </li>
+              <li>
+                <a
+                  className="fas fa-rss"
+                  target="_blank"
+                  href="https://electro.madrasthemes.com/feed/"
+                ></a>
+              </li>
+            </ul>
+          </div>
+          <div className="handheld-footer-bar">
+            <div className="handheld-footer-bar-inner">
+              <div className="footer-logo">
+                <svg
+                  version="1.1"
+                  x="0px"
+                  y="0px"
+                  width="156px"
+                  height="37px"
+                  viewBox="0 0 175.748 42.52"
+                  enable-background="new 0 0 175.748 42.52"
+                >
+                  <ellipse
+                    fill-rule="evenodd"
+                    clip-rule="evenodd"
+                    fill="#FDD700"
+                    cx="170.05"
+                    cy="36.341"
+                    rx="5.32"
+                    ry="5.367"
+                  ></ellipse>
+                  <path
+                    fill-rule="evenodd"
+                    clip-rule="evenodd"
+                    fill="#333E48"
+                    d="M30.514,0.71c-0.034,0.003-0.066,0.008-0.056,0.056
+                            C30.263,0.995,29.876,1.181,29.79,1.5c-0.148,0.548,0,1.568,0,2.427v36.459c0.265,0.221,0.506,0.465,0.725,0.734h6.187
+                            c0.2-0.25,0.423-0.477,0.669-0.678V1.387C37.124,1.185,36.9,0.959,36.701,0.71H30.514z M117.517,12.731
+                            c-0.232-0.189-0.439-0.64-0.781-0.734c-0.754-0.209-2.039,0-3.121,0h-3.176V4.435c-0.232-0.189-0.439-0.639-0.781-0.733
+                            c-0.719-0.2-1.969,0-3.01,0h-3.01c-0.238,0.273-0.625,0.431-0.725,0.847c-0.203,0.852,0,2.399,0,3.725
+                            c0,1.393,0.045,2.748-0.055,3.725h-6.41c-0.184,0.237-0.629,0.434-0.725,0.791c-0.178,0.654,0,1.813,0,2.765v2.766
+                            c0.232,0.188,0.439,0.64,0.779,0.733c0.777,0.216,2.109,0,3.234,0c1.154,0,2.291-0.045,3.176,0.057v21.277
+                            c0.232,0.189,0.439,0.639,0.781,0.734c0.719,0.199,1.969,0,3.01,0h3.01c1.008-0.451,0.725-1.889,0.725-3.443
+                            c-0.002-6.164-0.047-12.867,0.055-18.625h6.299c0.182-0.236,0.627-0.434,0.725-0.79c0.176-0.653,0-1.813,0-2.765V12.731z
+                             M135.851,18.262c0.201-0.746,0-2.029,0-3.104v-3.104c-0.287-0.245-0.434-0.637-0.781-0.733c-0.824-0.229-1.992-0.044-2.898,0
+                            c-2.158,0.104-4.506,0.675-5.74,1.411c-0.146-0.362-0.451-0.853-0.893-0.96c-0.693-0.169-1.859,0-2.842,0h-2.842
+                            c-0.258,0.319-0.625,0.42-0.725,0.79c-0.223,0.82,0,2.338,0,3.443c0,8.109-0.002,16.635,0,24.381
+                            c0.232,0.189,0.439,0.639,0.779,0.734c0.707,0.195,1.93,0,2.955,0h3.01c0.918-0.463,0.725-1.352,0.725-2.822V36.21
+                            c-0.002-3.902-0.242-9.117,0-12.473c0.297-4.142,3.836-4.877,8.527-4.686C135.312,18.816,135.757,18.606,135.851,18.262z
+                             M14.796,11.376c-5.472,0.262-9.443,3.178-11.76,7.056c-2.435,4.075-2.789,10.62-0.501,15.126c2.043,4.023,5.91,7.115,10.701,7.9
+                            c6.051,0.992,10.992-1.219,14.324-3.838c-0.687-1.1-1.419-2.664-2.118-3.951c-0.398-0.734-0.652-1.486-1.616-1.467
+                            c-1.942,0.787-4.272,2.262-7.134,2.145c-3.791-0.154-6.659-1.842-7.524-4.91h19.452c0.146-2.793,0.22-5.338-0.279-7.563
+                            C26.961,15.728,22.503,11.008,14.796,11.376z M9,23.284c0.921-2.508,3.033-4.514,6.298-4.627c3.083-0.107,4.994,1.976,5.685,4.627
+                            C17.119,23.38,12.865,23.38,9,23.284z M52.418,11.376c-5.551,0.266-9.395,3.142-11.76,7.056
+                            c-2.476,4.097-2.829,10.493-0.557,15.069c1.997,4.021,5.895,7.156,10.646,7.957c6.068,1.023,11-1.227,14.379-3.781
+                            c-0.479-0.896-0.875-1.742-1.393-2.709c-0.312-0.582-1.024-2.234-1.561-2.539c-0.912-0.52-1.428,0.135-2.23,0.508
+                            c-0.564,0.262-1.223,0.523-1.672,0.676c-4.768,1.621-10.372,0.268-11.537-4.176h19.451c0.668-5.443-0.419-9.953-2.73-13.037
+                            C61.197,13.388,57.774,11.12,52.418,11.376z M46.622,23.343c0.708-2.553,3.161-4.578,6.242-4.686
+                            c3.08-0.107,5.08,1.953,5.686,4.686H46.622z M160.371,15.497c-2.455-2.453-6.143-4.291-10.869-4.064
+                            c-2.268,0.109-4.297,0.65-6.02,1.524c-1.719,0.873-3.092,1.957-4.234,3.217c-2.287,2.519-4.164,6.004-3.902,11.007
+                            c0.248,4.736,1.979,7.813,4.627,10.326c2.568,2.439,6.148,4.254,10.867,4.064c4.457-0.18,7.889-2.115,10.199-4.684
+                            c2.469-2.746,4.012-5.971,3.959-11.063C164.949,21.134,162.732,17.854,160.371,15.497z M149.558,33.952
+                            c-3.246-0.221-5.701-2.615-6.41-5.418c-0.174-0.689-0.26-1.25-0.4-2.166c-0.035-0.234,0.072-0.523-0.045-0.77
+                            c0.682-3.698,2.912-6.257,6.799-6.547c2.543-0.189,4.258,0.735,5.52,1.863c1.322,1.182,2.303,2.715,2.451,4.967
+                            C157.789,30.669,154.185,34.267,149.558,33.952z M88.812,29.55c-1.232,2.363-2.9,4.307-6.13,4.402
+                            c-4.729,0.141-8.038-3.16-8.025-7.563c0.004-1.412,0.324-2.65,0.947-3.726c1.197-2.061,3.507-3.688,6.633-3.612
+                            c3.222,0.079,4.966,1.708,6.632,3.668c1.328-1.059,2.529-1.948,3.9-2.99c0.416-0.315,1.076-0.688,1.227-1.072
+                            c0.404-1.031-0.365-1.502-0.891-2.088c-2.543-2.835-6.66-5.377-11.704-5.137c-6.02,0.288-10.218,3.697-12.484,7.846
+                            c-1.293,2.365-1.951,5.158-1.729,8.408c0.209,3.053,1.191,5.496,2.619,7.508c2.842,4.004,7.385,6.973,13.656,6.377
+                            c5.976-0.568,9.574-3.936,11.816-8.354c-0.141-0.271-0.221-0.604-0.336-0.902C92.929,31.364,90.843,30.485,88.812,29.55z"
+                  ></path>
+                </svg>
+              </div>
+              <div className="footer-call-us">
+                <span className="call-us-text">Got Questions ? Call us 24/7!</span>
+                <span className="call-us-number"
+                  >(800) 8001-8588, (0600) 874 548</span
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </div>
+</main>
+    )
+}
