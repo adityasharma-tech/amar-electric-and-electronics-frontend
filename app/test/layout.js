@@ -1,11 +1,10 @@
 import "./style.css"
 import "./style2.css"
 import "./style3.css"
+import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 export default function TestLayout({ children }) {
-  return <body className="overflow-hidden">
-    <div className="off-canvas-wrapper w-100 position-relative">
-          {children}
-    </div>
-  </body>
+  return <main className="overflow-x-hidden">
+      {children}
+    </main>
 }

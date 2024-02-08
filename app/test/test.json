@@ -1,2 +1,0 @@
-{('div' | 'button' | 'main' | 'header' | 'ul' | 'h2' | 'li' | 'i' | 'h4' | 'a' | 'ins' | 'sup' | 'section' | 'img' | 'script' | 'p' | 'strong' | 'rs' | 'canvas' | 'bdi' | 'del' | 'br' | 'span')
-}
