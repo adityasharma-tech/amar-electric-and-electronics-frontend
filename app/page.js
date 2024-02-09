@@ -373,8 +373,8 @@ export default function Home() {
               <img src="/assets/temp/ad-banner-sidebar.webp" />
             </div>
           </div>
-          <div className="md:w-9/12 px-3 md:px-0 h-full">
-            <div>
+          <div className="md:w-9/12 lg:px-3 md:px-0 h-full">
+            <div className="px-3">
               <div className="relative">
                 <span
                   style={{

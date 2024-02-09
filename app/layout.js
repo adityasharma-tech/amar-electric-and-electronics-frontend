@@ -7,6 +7,7 @@ import '@fontsource/roboto/700.css';
 
 import siteConfig from "@/config/siteConfig";
 import Footer from "@/components/global/footer";
+import { cn } from "@/lib/utils";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -15,10 +16,12 @@ export const metadata = {
   description: siteConfig.description
 };
 
+
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body className={cn(inter.className, "overflow-x-hidden")}>
         {children}
         <Footer/>
         </body>
